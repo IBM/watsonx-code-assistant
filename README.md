@@ -4,8 +4,6 @@
 
 IBM® watsonx™ Code Assistant is an innovative, generative AI coding companion that offers robust, contextually aware assistance for popular programming languages including Go, C, C++, Java, JavaScript, Python, TypeScript, and more. Seamlessly integrated into your IDE, you can accelerate your productivity and simplify coding tasks, all with trust, security, and compliance.
 
-**Note for IBM Granite.Code users**: IBM Granite.Code is now IBM watsonx Code Assistant Individual. For individual users, you can continue to use Ollama to access a local IBM Granite model. For increased performance and new features, provision a trial of watsonx Code Assistant on IBM Cloud. For more information, see the [IBM Cloud catalog](https://cloud.ibm.com/catalog/services/ibm-watsonx-code-assistant).
-
 ## Features
 
 ### Get code suggestions
