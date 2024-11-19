@@ -1,3 +1,8 @@
+# License
+- The license for IBM watsonx Code Assistant can be found in the [product-licenses](./product-licenses/) folder in this repository.
+
+- You can use this repository to add issues for watsonx Code Assistant Individual. The license for issues, discussion, and any files or samples shared in issues can be found in the [LICENSE](./LICENSE) file.
+
 # IBM® watsonx™ Code Assistant
 
 ## Overview
