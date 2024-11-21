@@ -31,31 +31,31 @@ Or, enter a comment that describes the code you want.
 
 <img src="https://github.com/ibm/watsonx-code-assistant/raw/HEAD/images/comment-to-code.gif" height=200 alt="Comment to code generation in IBM watsonx Code Assistant">
 
-For more information, see the documentation for [Getting code suggestions](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-code).
+For more information, see the documentation for <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-code" target="_blank">Getting code suggestions</a>.
 
 ### Explain code
 
 Use generative AI to analyze and summarize your code to understand what the code does. Click the **Explain** option that precedes a code block or enter `/explain` in a chat conversation. IBM watsonx Code Assistant analyzes the code and provides a detailed explanation of what the code does.
 
-For more information, see the documentation for [Explaining code](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-explain).
+For more information, see the documentation for <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-explain" target="_blank">Explaining code</a>.
 
 ### Document code
 
 Generate comment lines that document what your code does. Click the **Document** option that precedes a code block or enter `/document` in a chat conversation. IBM watsonx Code Assistant analyzes the code and adds comments that document what the code does.
 
-For more information, see the documentation for [Documenting code](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-doc). 
+For more information, see the documentation for <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-doc" target="_blank">Documenting code</a>. 
 
 ### Generate unit tests
 
 Create unit tests to evaluate your code functions. Click the **Unit Test** option that precedes a code block or enter `/unit-test` in a chat conversation. IBM watsonx Code Assistant analyzes the code and creates a unit test.
 
-For more information, see the documentation for [Generating unit tests](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-test). 
+For more information, see the documentation for <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-test" target="_blank">Generating unit tests</a>. 
 
 ### Translate code from one language to another
 
 Use watsonx Code Assistant to translate code. In a chat conversation, use the syntax `translate [from <source language >] to <target_language> <code reference>`
 
-For more information, see the documentation for [Translating code from one language to another](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-translate-code). 
+For more information, see the documentation for <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-translate-code" target="_blank">Translating code from one language to another</a>. 
 
 
 # IBM® watsonx™ Code Assistant for Enterprise Java Applications
@@ -68,13 +68,13 @@ For use with the Standard plan, the IBM® watsonx™ Code Assistant for Enterpri
 
 Analyze your Java application runtime and modernize it to a more lightweight, flexible, and efficient runtime. Receive a prescriptive plan that describes the changes that are needed to modernize your application, with a detailed assessment of complexity and required development effort. Use automation to quickly implement code and configuration changes. Transform code with generative Al assistance to resolve more complex issues.
 
-For more information, see the documentation for [Modernizing Java applications](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-modernize-java).
+For more information, see the documentation for <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-modernize-java" target="_blank">Modernizing Java applications</a>.
 
 ### **Java version upgrade**
 
 Identify changes required to upgrade Java code, automatically apply fixes, and use generative AI to transform Java code. Receive a prescriptive plan that describes the changes that are needed to upgrade your application, with a detailed assessment of complexity and required development effort. Use automation to quickly implement code and configuration changes. Transform code with generative Al assistance to resolve more complex issues.
 
-For more information, see the documentation for [Upgrading the Java version for your application](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-upgrade-java).
+For more information, see the documentation for <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-upgrade-java" target="_blank">Upgrading the Java version for your application</a>.
 
 ### **Explain code and applications**
 
@@ -82,7 +82,7 @@ Understand complex code structures by using generative AI to summarize your appl
 
 With the Standard plan, get enhanced code explanations. Use generative AI to analyze and summarize your code to understand what the code does. Click the **Explain** option that precedes a code block or enter `/explain` in a chat conversation. IBM watsonx Code Assistant analyzes the code and provides a detailed explanation of what the code does.
 
-For more information, see the documentation for [Explaining code](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-explain).
+For more information, see the documentation for <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-explain" target="_blank">Explaining code</a>.
 
 ### **Generate unit tests**
 
@@ -90,7 +90,7 @@ Use generative AI to create tests that help maintain critical application functi
 
 With the Standard plan, create enhanced unit tests to evaluate your code functions. Click the **Unit Test** option that precedes a code block or enter `/unit-test` in a chat conversation. IBM watsonx Code Assistant analyzes the code and creates a unit test.
 
-For more information, see the documentation for [Generating unit tests](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-test). 
+For more information, see the documentation for <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-wca-generate-test" target="_blank">Generating unit tests</a>. 
 
 # Setup
 
@@ -100,17 +100,17 @@ Provision a watsonx Code Assistant service instance on IBM Cloud for your organi
 
 To set up on IBM Cloud:
 
-1. Explore the [pricing plans](https://www.ibm.com/products/watsonx-code-assistant/pricing).
-1. Use the [IBM Cloud catalog](https://cloud.ibm.com/catalog/services/ibm-watsonx-code-assistant) to provision a service instance of watsonx Code Assistant.
+1. Explore the <a href="https://www.ibm.com/products/watsonx-code-assistant/pricing" target="_blank">pricing plans</a>.
+1. Use the <a href="https://cloud.ibm.com/catalog/services/ibm-watsonx-code-assistant" target="_blank">IBM Cloud catalog</a> to provision a service instance of watsonx Code Assistant.
 1. When you finish provisioning your instance, click **Setup** to open an onboarding checklist page to help you with configuration.
 1. Have your developers create an IBM Cloud API Key.
 1. Have your developers install the Visual Studio Code extension for watsonx Code Assistant.
-   - For Trial and Essentials plans, install the [watsonx Code Assistant extension](https://marketplace.visualstudio.com/items?itemName=IBM.wca-core).
-   - For the Standard plan, install the [watsonx Code Assistant for Enterprise Java Applications extension](https://marketplace.visualstudio.com/items?itemName=IBM.wca-eja).
+   - For Trial and Essentials plans, install the <a href="https://marketplace.visualstudio.com/items?itemName=IBM.wca-core" target="_blank">watsonx Code Assistant extension</a>.
+   - For the Standard plan, install the <a href="https://marketplace.visualstudio.com/items?itemName=IBM.wca-eja" target="_blank">watsonx Code Assistant for Enterprise Java Applications extension</a>.
 
 For more information, see the documentation for: 
-- [Setting up your watsonx Code Assistant service in IBM Cloud](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-cloud-setup-wca)
-- [Installing the IDE extension or plugin](https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-cloud-setup-wca-extensions)
+- <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-cloud-setup-wca" target="_blank">Setting up your watsonx Code Assistant service in IBM Cloud</a>
+- <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-cloud-setup-wca-extensions" target="_blank">Installing the IDE extension or plugin</a>
 
 ## Use watsonx Code Assistant Individual with a local IBM Granite model
 
@@ -118,7 +118,7 @@ Free for individual use on a personal laptop, use IBM watsonx Code Assistant Ind
 
 ### Install the IBM watsonx Code Assistant extension
 
-1. Open the [watsonx Code Assistant](https://marketplace.visualstudio.com/items?itemName=IBM.wca-core&ssr=false#overview) extension page in the Visual Studio Marketplace.
+1. Open the <a href="https://marketplace.visualstudio.com/items?itemName=IBM.wca-core&ssr=false#overview" target="_blank">watsonx Code Assistant</a> extension page in the Visual Studio Marketplace.
 1. Click Install on the Marketplace page.
 1. In Visual Studio Code, click Install on the extension.
 1. In the extension settings, set **Wca: Backend Provider** to **ollama**.
