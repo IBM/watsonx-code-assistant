@@ -60,7 +60,7 @@ For more information, see the documentation for <a href="https://cloud.ibm.com/d
 
 # IBM® watsonx™ Code Assistant for Enterprise Java Applications
 
-For use with the Standard plan, the IBM® watsonx™ Code Assistant for Enterprise Java Applications extension adds features for Java application upgrades and modernization, and enhanced code explanation and unit test generation.
+For use with the Standard plan, IBM® watsonx™ Code Assistant for Enterprise Java Applications adds features for Java application upgrades and modernization, and enhanced code explanation and unit test generation.
 
 ## Features
 
@@ -104,10 +104,8 @@ To set up on IBM Cloud:
 1. Use the <a href="https://cloud.ibm.com/catalog/services/ibm-watsonx-code-assistant" target="_blank">IBM Cloud catalog</a> to provision a service instance of watsonx Code Assistant.
 1. When you finish provisioning your instance, click **Setup** to open an onboarding checklist page to help you with configuration.
 1. Have your developers create an IBM Cloud API Key.
-1. Have your developers install the Visual Studio Code extension for watsonx Code Assistant.
-   - For Trial and Essentials plans, install the <a href="https://marketplace.visualstudio.com/items?itemName=IBM.wca-core" target="_blank">watsonx Code Assistant extension</a>.
-   - For the Standard plan, install the <a href="https://marketplace.visualstudio.com/items?itemName=IBM.wca-eja" target="_blank">watsonx Code Assistant for Enterprise Java Applications extension</a>.
-
+1. Have your developers install the Visual Studio Code extension or Eclipse IDE plugin for watsonx Code Assistant.
+   
 For more information, see the documentation for: 
 - <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-cloud-setup-wca" target="_blank">Setting up your watsonx Code Assistant service in IBM Cloud</a>
 - <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-cloud-setup-wca-extensions" target="_blank">Installing the IDE extension or plugin</a>
@@ -196,12 +194,12 @@ To use a different model:
 
 ## Securing your setup
 
-### Your Visual Studio Code environment
+### Your IDE environment
 
 IBM watsonx Code Assistant does not provide any additional security controls. It's recommended the following steps be taken to properly secure your setup:
 
-- Apply all Visual Studio Code updates to help ensure you have the latest security and bug fixes. For more information, see the <a href="https://code.visualstudio.com/docs/setup/setup-overview" target="_blank">Microsoft Documentation</a>.
-- The IBM watsonx Code Assistant extension logs are stored in *.log files under `<your home directory>/.wca`. These files are not encrypted, other than the encryption that your file system provides. Safeguard the logs against improper access.
+- Apply all updates for your IDE to help ensure you have the latest security and bug fixes.
+- The IBM watsonx Code Assistant logs are stored in *.log files under `<your home directory>/.wca`. These files are not encrypted, other than the encryption that your file system provides. Safeguard the logs against improper access.
 
 ### Chat conversation storage
 
