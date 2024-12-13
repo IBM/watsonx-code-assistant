@@ -3,7 +3,7 @@ LICENSE INFORMATION
 The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Non-Warranted Programs (i125-5589-06) applies.
 
 Program Name (Program Number):
-IBM watsonx Code Assistant (extension for Visual Studio Code)  (Tool)
+IBM watsonx Code Assistant (extension for Visual Studio Code) V1.1 (Tool)
 
 The following standard terms apply to Licensee's use of the Program.
 
@@ -18,10 +18,6 @@ IBM watsonx Code Assistant Software
 Licensee may also use the Program with IBM Granite models on a single local machine
 
 
-Developer Limitation
-
-If the Program is designated as for "Developers", Licensee can only use the Program as part of Licensee's internal development and unit testing on a developer machine. A developer machine is a physical or virtual desktop environment, running a primary operating system and the Program, both of which are accessible and used by no more than one specified developer.
-
 Modifiable Third Party Code
 
 To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
@@ -34,10 +30,14 @@ Note: Notwithstanding any of the terms in the third party license agreement, the
 (a) IBM provides it to Licensee WITHOUT WARRANTIES OF ANY KIND AND DISCLAIMS ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE, NON-INFRINGEMENT OR NON-INTERFERENCE, AND THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE;
 (b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
 
+In addition to the above, the following terms apply to Licensee's use of the Program.
 
-L/N: L-TVGF-65LYSJ
-D/N: L-TVGF-65LYSJ
-P/N: L-TVGF-65LYSJ
+The Program may only be used with (a) paid subscriptions or licenses to watsonx Code Assistant products and services; or (b) IBM Granite models as part of Licensee's internal development and test environment for internal non-production activities on a single physical or virtual desktop environment, running a primary operating system and the Program, both of which are accessible and used by no more than one specified individual.
+
+
+L/N: L-JLCG-4L8NFT
+D/N: L-JLCG-4L8NFT
+P/N: L-JLCG-4L8NFT
 
 International License Agreement for Non-Warranted Programs
 

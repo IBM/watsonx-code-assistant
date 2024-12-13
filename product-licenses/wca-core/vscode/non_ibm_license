@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM watsonx Code Assistant (extension for Visual Studio Code) 
+IBM watsonx Code Assistant (extension for Visual Studio Code) V1.1
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -21,7 +21,7 @@ shipped with, the Program as Licensee installed it.
 The following are Separately Licensed Code:
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-NON-IBM-LICENSE INFORMATION FOR IBM watsonx Code Assistant (extension for Visual Studio Code)
+NON-IBM-LICENSE INFORMATION FOR IBM watsonx Code Assistant (extension for Visual Studio Code) 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -30,17 +30,27 @@ TABLE OF CONTENTS
 THIS NON-IBM-LICENSE FILE CONSISTS OF THE FOLLOWING SECTIONS:
 
 OFL-1.1
+CC-BY-1.0
 CC-BY-4.0
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 SIL Open Font License 1.1
 
 The Program includes some or all of the following that IBM obtained 
 under the SIL Open Font License 1.1: 
 
-@ibm/plex
+@ibm/plex 	
+@ibm/plex-mono 	
+@ibm/plex-sans
+@ibm/plex-sans-Arabic
+@ibm/plex-sans-Devanagari
+@ibm/plex-sans-Hebrew
+@ibm/plex-sans-thai
+@ibm/plex-sans-thai-looped
+@ibm/plex-serif
+
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
@@ -81,7 +91,7 @@ statement(s).
 distributed by the Copyright Holder(s).
 
 "Modified Version" refers to any derivative made by adding to, deleting, or 
-substituting — in part or in whole — any of the components of the Original 
+substituting - in part or in whole - any of the components of the Original 
 Version, by changing formats or by porting the Font Software to a new environment.
 
 "Author" refers to any designer, engineer, programmer, technical writer or other 
@@ -134,11 +144,26 @@ END OF SIL OPEN FONT LICENSE 1.1 NON-IBM LICENSE INFORMATION
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+CREATIVE COMMONS ATTRIBUTION 1.0
+
+The Program includes some or all of the following works licensed under
+the Creative Commons.
+The url to the license is https://creativecommons.org/licenses/by/1.0/legalcode
+
+highlightjs-vue | Copyright (c) 2019, Sara Lissette Luis Ibáñez | https://www.npmjs.com/package/highlightjs-vue/v/1.0.0
+
+
+END OF CREATIVE COMMONS ATTRIBUTION 4.0 NON-IBM-LICENSE INFORMATION
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 CREATIVE COMMONS ATTRIBUTION 4.0
 
 The Program includes some or all of the following works licensed under
 the Creative Commons.
 The url to the license is https://creativecommons.org/licenses/by/4.0/legalcode
+
 
 @vscode/codicons | Copyright (c) Microsoft Corporation | https://registry.npmjs.org/@vscode/codicons/-/codicons-0.0.33.tgz
 
@@ -146,12 +171,8 @@ END OF CREATIVE COMMONS ATTRIBUTION 4.0 NON-IBM-LICENSE INFORMATION
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-END OF NON-IBM-LICENSE INFORMATION
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-END OF NON-IBM-LICENSE INFORMATION FILE
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-L/N: L-TVGF-65LYSJ
-D/N: L-TVGF-65LYSJ
-P/N: L-TVGF-65LYSJ
+L/N: L-JLCG-4L8NFT
+D/N: L-JLCG-4L8NFT
+P/N: L-JLCG-4L8NFT
