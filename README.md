@@ -23,7 +23,7 @@ IBM® watsonx™ Code Assistant is an innovative, generative AI coding companion
 
 <img src="https://github.com/ibm/watsonx-code-assistant/raw/HEAD/images/Single-line.gif" height=200 alt="Single-line completion in IBM watsonx Code Assistant">
 
-You can also get a multiline code suggestion. Start typing a line of code,then use a keyboard shortcut, and watsonx Code Assistant adds a multiline code suggestion.
+You can also get a multiline code suggestion. Start typing a line of code, then use a keyboard shortcut, and watsonx Code Assistant adds a multiline code suggestion.
 
 <img src="https://github.com/ibm/watsonx-code-assistant/raw/HEAD/images/Multi-line.gif" height=350 alt="Multi-line completion in IBM watsonx Code Assistant">
 
@@ -104,11 +104,11 @@ To set up on IBM Cloud:
 1. Use the <a href="https://cloud.ibm.com/catalog/services/ibm-watsonx-code-assistant" target="_blank">IBM Cloud catalog</a> to provision a service instance of watsonx Code Assistant.
 1. When you finish provisioning your instance, click **Setup** to open an onboarding checklist page to help you with configuration.
 1. Have your developers create an IBM Cloud API Key.
-1. Have your developers install the Visual Studio Code extension or Eclipse IDE plugin for watsonx Code Assistant.
+1. Have your developers install the Visual Studio Code extension or Eclipse IDE plug-in for watsonx Code Assistant.
    
 For more information, see the documentation for: 
 - <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-cloud-setup-wca" target="_blank">Setting up your watsonx Code Assistant service in IBM Cloud</a>
-- <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-cloud-setup-wca-extensions" target="_blank">Installing the IDE extension or plugin</a>
+- <a href="https://cloud.ibm.com/docs/watsonx-code-assistant?topic=watsonx-code-assistant-cloud-setup-wca-extensions" target="_blank">Installing the IDE extension or plug-in</a>
 
 ## Use watsonx Code Assistant Individual with a local IBM Granite model
 
