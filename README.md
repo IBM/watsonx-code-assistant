@@ -178,7 +178,7 @@ Get started with IBM watsonx Code Assistant by installing the `granite-code:8b` 
 
 ### Configure the Ollama host
 
-By default, the Ollama server runs on IP address `127.0.0.1`, port `11434`, andhttp as a protocol. If you change the IP address or the port where Ollama is available:
+By default, the Ollama server runs on IP address `127.0.0.1`, port `11434`, and http as a protocol. If you change the IP address or the port where Ollama is available:
 
 1. In Visual Studio Code, open the extension settings for watsonx Code Assistant.
 1. In **Wca > Local: API Host**, add the host IP and port.
@@ -188,7 +188,7 @@ By default, the Ollama server runs on IP address `127.0.0.1`, port `11434`, andh
 By default, watsonx Code Assistant uses the `granite-code:8b` model for both chat and code completion. If your environment has enough capacity, install the `granite-code:8b-base` model.
 
 To use a different model:
-1. Install the `granite-code:8b-base` model. See [Install the Granite code model](#install-the-granite-code-model).
+1. Install the `granite-code:8b-base` model.
 1. In Visual Studio Code, open the extension settings for watsonx Code Assistant.
 1. In **Wca > Local: Code Gen Model**, enter `granite-code:8b-base`.
 
