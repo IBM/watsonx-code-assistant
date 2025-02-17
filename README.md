@@ -112,7 +112,7 @@ For more information, see the documentation for:
 
 ## Use watsonx Code Assistant Individual with a local IBM Granite model
 
-Free for individual use on a personal laptop, use IBM watsonx Code Assistant Individual to access a local model through <a href="https://ollama.com" target="_blank">Ollama</a>, which is a widely-used local inferencing engine for LLMs. Ollama wraps the underlying model-serving project <a href="https://github.com/ggerganov/llama.cpp" target="_blank">llama.cpp</a>.
+Free for individual use on a personal laptop, use IBM watsonx Code Assistant Individual to access a local model through <a href="https://ollama.com" target="_blank">Ollama</a>, which is a widely-used local inferencing engine for LLMs. Ollama wraps the underlying model-serving project <a href="https://github.com/ggml-org/llama.cpp" target="_blank">llama.cpp</a>.
 
 ### Install the IBM watsonx Code Assistant extension
 
