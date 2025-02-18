@@ -114,7 +114,9 @@ For more information, see the documentation for:
 
 Free for individual use on a personal laptop, use IBM watsonx Code Assistant Individual to access a local model through <a href="https://ollama.com" target="_blank">Ollama</a>, which is a widely-used local inferencing engine for LLMs. Ollama wraps the underlying model-serving project <a href="https://github.com/ggml-org/llama.cpp" target="_blank">llama.cpp</a>.
 
-### Install the IBM watsonx Code Assistant extension
+### Install the IBM watsonx Code Assistant Visual Studio Code extension
+
+This setup is not available for the Eclipse IDE plug-in. It is only available with the Visual Studio Code extension.
 
 1. Open the <a href="https://marketplace.visualstudio.com/items?itemName=IBM.wca-core&ssr=false#overview" target="_blank">watsonx Code Assistant</a> extension page in the Visual Studio Marketplace.
 1. Click Install on the Marketplace page.
