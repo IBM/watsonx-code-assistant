@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM watsonx Code Assistant (extension for Eclipse) V1.0
+IBM watsonx Code Assistant (extension for Eclipse) 1.1.x
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -90,7 +90,9 @@ com.fasterxml.jackson.core:jackson-annotations
 com.fasterxml.jackson.core:jackson-core
 com.fasterxml.jackson.core:jackson-databind
 crc-32
+detect-libc
 dompurify
+drizzle-orm
 importlib-metadata
 importlib-resources
 kareem
@@ -102,6 +104,7 @@ pygls
 pytest-asyncio
 react-beautiful-dnd
 short-unique-id
+typescript
 xlsx
 
 Apache License
@@ -341,12 +344,15 @@ diff | Copyright (c) 2009-2015 And Kevin Decker <kpdecker@gmail.com>
 highlight.js | Copyright (c) 2006 Ivan Sagalaev
 highlightjs-vue | Copyright 2019 Sara Lissette Luiz Ibáñez
 hoist-non-react-statics | Copyright (c) 2015, Yahoo! Inc. All rights reserved.
+js-base64 | Copyright (c) 2014, Dan Kogai. All rights reserved. 
 lit | Copyright (c) 2017 Google LLC. All rights reserved
 lit-element | Copyright (c) 2017 Google LLC. All rights reserved 	
 lit-html | Copyright (c) 2017 Google LLC. All rights reserved
 react-mentions | Copyright (c) 2018 And Signavio GmbH
 source-map | Copyright (c) 2009-2011, Mozilla Foundation and contributors
 source-map-js | Copyright (c) 2009-2011 And Mozilla Foundation and contributors
+ssr-dom-shim | Copyright (c) 2017 Google LLC. All rights reserved. 
+
 
 
 Redistribution and use in source and binary forms, with or without 
@@ -390,15 +396,18 @@ flatted | Copyright (c) 2018-2020 And Andrea Giammarchi And @WebReflection
 glob-parent | Copyright (c) 2015 2019 Elan Shanker
 graceful-fs | Copyright (c) 2011-2022 Isaac Z. Schlueter Ben Noordhuis and Contributors
 inherits | Copyright (c) Isaac Z. Schlueter
+isexe | Copyright 2016-2022 Isaac Z. Schlueter and Contributors
 lru-cache | Copyright (c) 2010-2023 Isaac Z. Schlueter and Contributors 	
 make-error | Copyright 2014 Julien Fontanet
 minimatch | Copyright (c) 2011-2023 Isaac Z. Schlueter and Contributors
 once | Copyright (c) Isaac Z. Schlueter and Contributors
 pg-int8 | Copyright (c) 2017 And Charmander <~@charmander.me>
 picocolors | Copyright (c) 2021-2024 Oleksii Raspopov And Kostiantyn Denysov And Anton Verinov
+promise-limit | No copyright information found
 semver | Copyright (c) Isaac Z. Schlueter and Contributors
 signal-exit | Copyright (c) 2015-2023 Benjamin Coe Isaac Z. Schlueter and Contributors
 split2 | Copyright (c) 2014-2018 Matteo Collina <hello@matteocollina.com>
+which | Copyright Isaac Z. Schlueter and Contributors
 wrappy | Copyright (c) Isaac Z. Schlueter and Contributors
 write-file-atomic | Copyright (c) 2015 Rebecca Turner
 yallist | Copyright (c) Isaac Z. Schlueter and Contributors
@@ -472,6 +481,7 @@ under the MIT License:
 @jridgewell/trace-mapping | Copyright 2022 Justin Ridgewell <justin@ridgewell.name>
 @kwsites/file-exists | Copyright (c) 2015 Steve King
 @kwsites/promise-deferred | Copyright (c) 2018 kwsites
+@libsql/core | Copyright (c) 2023 libSQL
 @microsoft/fast-element | Copyright (c) Microsoft Corporation. All rights reserved.
 @microsoft/fast-foundation | Copyright (c) Microsoft Corporation. All rights reserved.
 @microsoft/fast-react-wrapper | Copyright (c) Microsoft Corporation. All rights reserved.
@@ -491,6 +501,7 @@ under the MIT License:
 @parcel/watcher-win32-arm64 | Copyright (c) 2017-present Devon Govett
 @parcel/watcher-win32-ia32 | Copyright (c) 2017-present Devon Govett
 @parcel/watcher-win32-x64 | Copyright (c) 2017-present Devon Govett
+@popperjs/core | Copyright (c) 2021 Floating UI contributors
 @redis/bloom | Copyright (c) 2022-2023 Redis inc.
 @redis/client | Copyright (c) 2022-2023 And Redis And inc.
 @redis/graph | Copyright (c) 2022-2023 Redis inc.
@@ -504,6 +515,7 @@ under the MIT License:
 @redux-saga/symbols | Copyright (c) Redux-Saga team and other contributors
 @redux-saga/types | Copyright (c) Redux-Saga team and other contributors
 @reduxjs/toolkit | Copyright (c) 2018 Mark Erikson
+@remirror/core-constants | Copyright (c) 2019-2022, Remirror Contributors
 @remix-run/router | Copyright (c) React Training 2015-2019 And Copyright (c) Remix Software 2020-2022 	
 @tsconfig/node10 | Copyright (c) Microsoft Corporation
 @tsconfig/node12 | Copyright (c) Microsoft Corporation
@@ -534,6 +546,8 @@ acorn | Copyright (C) 2012-2022 by various contributors
 acorn-walk | Copyright (C) 2012-2020 by various contributors
 afinn-165 | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 afinn-165-financialmarketnews | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
+agent-base | Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+alien-signals | Copyright 2024 Johnson Chu
 ansi-styles | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 apparatus | Copyright (c) 2011 And Chris Umbel 	
 arg | Copyright (c) 2017-2019 Zeit, Inc.
@@ -563,6 +577,7 @@ color | Copyright (c) 2012 Heather Arthur
 color-convert | Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>. Copyright (c) 2016-2021 Josh Junon <josh@junon.me>.
 color-name | Copyright (c) 2015 Dmitry Ivanov
 color-string | Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
+colors | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 colorspace | Copyright (c) 2015 Arnout Kazemier Martijn Swaagman the Contributors.
 combined-stream | Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
 comma-separated-tokens | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
@@ -573,6 +588,10 @@ copy-to-clipboard | Copyright (c) 2017 sudodoki <smd.deluzion@gmail.com>
 core-js | Copyright (c) 2014-2022 Denis Pushkarev
 cosmiconfig | Copyright (c) 2015 David Clark
 create-require | Copyright (c) 2020 Maël Nison <nison.mael@gmail.com>, Paul Soporan <paul.soporan@gmail.com>, Pooya Parsa <pyapar@gmail.com>
+crc | Copyright 2014 Alex Gorbatchev
+crelt | Copyright (C) 2020 by Marijn Haverbeke <marijn@haverbeke.berlin>
+cross-env | Copyright (c) 2017 Kent C. Dodds
+cross-spawn | Copyright (c) 2018 Made With MOXY Lda <hello@moxy.studio>
 css-box-model | Copyright (c) 2018 Alex Reardon
 css-line-break | Copyright (c) 2017 Niklas von Hertzen
 css-tree | Copyright (c) 2016-2022 by Roman Dvornov
@@ -583,19 +602,45 @@ date-format | Copyright (c) 2013 Gareth Jones
 debug | Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca> And Copyright (c) 2018-2021 Josh Junon
 decode-named-character-reference | Copyright (c) 2021 Titus Wormer <tituswormer@gmail.com>
 decompress-response | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+deepmerge | 
 delayed-stream | Copyright (c) 2011 Debuggable Limited
 dequal | Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
-detect-libc | Copyright 2017 Lovell Fuller
+diagnostics | 
 diff3 | No Copyright Found
 dom-serializer | Copyright (c) 2014 The cheeriojs contributors
 downshift | Copyright (c) 2017 PayPal
 enabled | Copyright (c) 2015 Arnout Kazemier Martijn Swaagman the Contributors.
 error-ex | Copyright (c) 2015 JD Ballard
+esbuild | Copyright (c) 2020 Evan Wallace
 esbuild-windows-64 | Copyright (c) 2020 Evan Wallace
 escape-string-regexp | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 exceptiongroup | Copyright (c) 2022 Alex Grönholm
 exenv-es6 | Copyright (c) 2018 Chris Holt
 extend | Copyright (c) 2014 Stefan Thomas
+extension-blockquote | Copyright (c) 2025, Tiptap GmbH
+extension-bold | Copyright (c) 2025, Tiptap GmbH
+extension-bubble-menu | Copyright (c) 2025, Tiptap GmbH 
+extension-bullet-list | Copyright (c) 2025, Tiptap GmbH 
+extension-code | Copyright (c) 2025, Tiptap GmbH 
+extension-code-block | Copyright (c) 2025, Tiptap GmbH 
+extension-document | Copyright (c) 2025, Tiptap GmbH
+extension-mention | Copyright (c) 2025, Tiptap GmbH
+extension-dropcursor | Copyright (c) 2025, Tiptap GmbH
+extension-floating-menu | Copyright (c) 2025, Tiptap GmbH
+extension-gapcursor | Copyright (c) 2025, Tiptap GmbH
+extension-hard-break | Copyright (c) 2025, Tiptap GmbH
+extension-heading | Copyright (c) 2025, Tiptap GmbH
+extension-history | Copyright (c) 2025, Tiptap GmbH
+extension-horizontal-rule | Copyright (c) 2025, Tiptap GmbH
+extension-italic | Copyright (c) 2025, Tiptap GmbH
+extension-list-item | Copyright (c) 2025, Tiptap GmbH
+extension-mention | Copyright (c) 2025, Tiptap GmbH
+extension-ordered-list | Copyright (c) 2025, Tiptap GmbH
+extension-paragraph | Copyright (c) 2025, Tiptap GmbH
+extension-placeholder | Copyright (c) 2025, Tiptap GmbH
+extension-strike | Copyright (c) 2025, Tiptap GmbH
+extension-text | Copyright (c) 2025, Tiptap GmbH
+extension-text-style | Copyright (c) 2025, Tiptap GmbH
 fast-deep-equal | Copyright (c) 2017 Evgeny Poberezkin
 fast-xml-parser | Copyright (c) 2017 Amit Kumar Gupta
 fastest-levenshtein | Copyright (c) 2020 Kasper Unn Weihe
@@ -618,17 +663,23 @@ fsevents | Copyright (C) 2010-2020 by Philipp Dunkel Ben Noordhuis Elan Shankar 
 function-bind | Copyright (c) 2013 Raynos.
 generic-pool | Copyright (c) 2010-2016 James Cooper <james@bitmechanic.com>
 globals | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+graphlib | Copyright 2012-2014 Chris Pettitt
 has-flag | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 hasown | Copyright (c) Jordan Harband and contributors 	
 hast-to-hyperscript | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
+hast-util-from-html | Copyright (c) 2022 Titus Wormer <tituswormer@gmail.com>
 hast-util-from-parse5 | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 hast-util-parse-selector | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 hast-util-raw | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 hast-util-to-parse5 | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 hast-util-whitespace | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 hastscript | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
+hrana-client | Copyright 2023 the sqld authors
 html2canvas | Copyright (c) 2012 Niklas von Hertzen
 html-void-elements | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
+htmlparser2 | Copyright 2010, 2011, Chris Winberry <chris@winberry.net>
+https-proxy-agent | Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+humps | Copyright (c) 2012-present Dom Christie (http://domchristie.co.uk)
 ignore | Copyright (c) 2013 Kael Zhang <i@kael.me> And contributors
 immer | Copyright (c) 2017 Michel Weststrate
 immutable | Copyright (c) 2014-present And Lee Byron and other contributors.
@@ -649,9 +700,12 @@ is-glob | Copyright (c) 2014-2017 Jon Schlinkert.
 is-hexadecimal | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 is-number | Copyright (c) 2014-2016 Jon Schlinkert
 is-plain-obj | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+is-plain-object | Copyright (c) 2014-2017, Jon Schlinkert
 is-retry-allowed | Copyright (c) Facebook Inc. and its affiliates.
 is-stream | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+isomorphic-fetch | Copyright 2023 the sqld authors
 isomorphic-git | Copyright 2017-2023 the 'isomorphic-git' authors
+isomorphic-ws | Copyright 2023 the sqld authors
 js-levenshtein | Copyright (c) 2017 Gustaf Andersson
 js-tokens | Copyright (c) 2014 2015 2016 2017 2018 Simon Lydell
 jsesc | Copyright Mathias Bynens <http://mathiasbynens.be/>
@@ -662,7 +716,11 @@ jspdf | Copyright (c) 2010-2021 James Hall And https://github.com/MrRio/jsPDF An
 jspdf-autotable | Copyright (c) 2014 Simon Bengtsson
 kleur | Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
 kuler | Copyright 2014 Arnout Kazemier
+language-core | Copyright (c) 2021-present Johnson Chu
+libsql | Copyright (c) 2017 Joshua Wise, Copyright (c) 2023 Pekka Enberg
 lines-and-columns | Copyright (c) 2015 Brian Donovan
+linkify-it | Copyright (c) 2015 Vitaly Puzrin
+load | Copyright (c) 2023 David Herman
 lodash | Copyright OpenJS Foundation and other contributors <https://openjsf.org/> Copyright and related rights for sample code are waived via CC0. Sample
 lodash.debounce | Copyright jQuery Foundation and other contributors <https://jquery.org/>
 lodash-es | Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
@@ -675,6 +733,7 @@ longest-streak | Copyright (c) 2015 Titus Wormer <mailto:tituswormer@gmail.com>
 loose-envify | Copyright (c) 2015 Andres Suarez <zertosh@gmail.com>
 lowlight | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 lsprotocol | Copyright (c) Microsoft Corporation.
+markdown-it | Copyright (c) 2014 Vitaly Puzrin, Alex Kocharin.
 markdown-table | Copyright (c) 2014 Titus Wormer <tituswormer@gmail.com>
 match-sorter | Copyright (c) 2020 Kent C. Dodds
 mdast-util-definitions | Copyright (c) 2015-2016 Titus Wormer <tituswormer@gmail.com>
@@ -690,6 +749,7 @@ mdast-util-phrasing | Copyright (c) 2017 Titus Wormer <tituswormer@gmail.com> Co
 mdast-util-to-hast | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 mdast-util-to-markdown | Copyright (c) 2020 Titus Wormer <tituswormer@gmail.com>
 mdast-util-to-string | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
+mdurl | Copyright (c) 2015 Vitaly Puzrin, Alex Kocharin
 memjs | Copyright (c) 2018 Amit Levy And MemCachier
 memoize-one | Copyright (c) 2019 Alexander Reardon
 memory-pager | Copyright (c) 2017 Mathias Buus
@@ -727,30 +787,39 @@ mime-types | Copyright (c) 2014 Jonathan Ong <me@jongleberry.com> Copyright (c) 
 mimic-response | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 minimist | No Copyright Found
 minimisted | No Copyright Found
+mlly | Copyright (c) Pooya Parsa <pooya@pi0.io>
+mock-fs | Copyright Tim Schaub
 moment | Copyright (c) JS Foundation and other contributors
 mongoose | Copyright (c) 2010-2013 LearnBoost <dev@learnboost.com>
 mpath | Copyright (c) 2012 [Aaron Heckmann](aaron.heckmann+github@gmail.com)
 mquery | Copyright (c) 2012 [Aaron Heckmann](aaron.heckmann+github@gmail.com)
 mri | Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
 ms | Copyright (c) 2020 Vercel Inc.
+nanoid | Copyright 2017 Andrey Sitnik <andrey@sitnik.ru>
 natural | Copyright (c) 2011 And 2012 Chris Umbel And Rob Ellis And Russell Mull
-node-addon-api | Copyright 2017 Node.js API collaborators" (https://github.com/nodejs/node-addon-api#collaborators)
-node-domexception | Copyright (c) 2021 Jimmy W√§rting
+node | Copyright Node.js contributors.
+node-addon-api | Copyright 2017 Node.js API collaborators (https://github.com/nodejs/node-addon-api#collaborators)
+node-domexception | Copyright (c) 2021 Jimmy Warting
 node-fetch | Copyright (c) 2016 - 2020 Node Fetch Team
 node-localstorage | Copyright (c) 2011 Lawrence S. Maccherone And Jr.
+node-sqlite3-wasm | Copyright (c) 2022-2024 Tobias Enderle
 normalize-path | Copyright (c) 2014-2018 Jon Schlinkert.
 object-assign | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 object-hash | Copyright (c) 2014 object-hash contributors
+ollama | Copyright (c) 2023 Saul
 one-time | Copyright (c) 2015 Unshift.io Arnout Kazemier the Contributors.
+orderedmap | Copyright (C) 2016 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
 pako | Copyright (C) 2014-2017 by Vitaly Puzrin and Andrei Tuputcyn
 parent-module | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 parse-entities | Copyright (c) 2015 Titus Wormer <mailto:tituswormer@gmail.com>
 parse-json | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com) 	
+parse-srcset | Copyright (c) 2014 Alex Bell
 parse5 | Copyright (c) 2013-2019 Ivan Nikulin (ifaaan@gmail.com, https://github.com/inikulin)
+path-key | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 path-parse | Copyright (c) 2015 Javier Blanco
 path-type | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+pathe | Copyright (c) Pooya Parsa <pooya@pi0.io> - Daniel Roe <daniel@roe.dev>
 performance-now | Copyright (c) 2013 Braveg1rl 	
-picocolors | Copyright (c) 2021-2024 Oleksii Raspopov, Kostiantyn Denysov, Anton Verinov
 pg | Copyright (c) 2010 - 2021 Brian Carlson
 pg-cloudflare | Copyright (c) 2010 - 2021 Brian Carlson
 pg-connection-string | Copyright (c) 2014 Iced Development
@@ -758,10 +827,14 @@ pg-pool | Copyright (c) 2017 Brian M. Carlson
 pg-protocol | Copyright (c) 2010 - 2021 Brian Carlson
 pg-types | Copyright (c) 2014 Brian M. Carlson
 pgpass | Copyright (c) 2013-2016 Hannes Hörl
+picocolors | Copyright (c) 2021-2024 Oleksii Raspopov, Kostiantyn Denysov, Anton Verinov
 picomatch | Copyright (c) 2017-present Jon Schlinkert.
 pify | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+pkgtypes | Copyright (c) Pooya Parsa <pooya@pi0.io> - Daniel Roe <daniel@roe.dev>
 pluggy | Copyright (c) 2015 holger krekel
+pm | Copyright (c) 2025, Tiptap GmbH
 porter-stemmer | Copyright (c) 2011 Jed Parsons <jedp@jedparsons.com>
+postcss | Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 postgres-array | Copyright (c) Ben Drucker <bvdrucker@gmail.com> (bendrucker.me)
 postgres-bytea | Copyright (c) Ben Drucker <bvdrucker@gmail.com> (bendrucker.me)
 postgres-date | Copyright (c) Ben Drucker <bvdrucker@gmail.com> (bendrucker.me)
@@ -769,8 +842,26 @@ postgres-interval | Copyright (c) Ben Drucker <bvdrucker@gmail.com> (bendrucker.
 prismjs | Copyright (c) 2012 Lea Verou
 prop-types | Copyright (c) 2013-present Facebook Inc.
 property-information | Copyright (c) 2015 Titus Wormer <mailto:tituswormer@gmail.com>
+prosemirror-changeset | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-collab | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-commands | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-dropcursor | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-gapcursor | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-history | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-inputrules | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-keymap | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-markdown | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-menu | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-model | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-schema-basic | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-schema-list | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-state | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-tables | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-trailing-node | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-transform | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
+prosemirror-view | Copyright (C) 2015-2017 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
 proxy-from-env | Copyright (C) 2016-2018 Rob Wu <rob@robwu.nl>
-punycode | Copyright Mathias Bynens <https://mathiasbynens.be/>
+punycode.js | Copyright Mathias Bynens <https://mathiasbynens.be/>
 pytest | Copyright (c) 2004 Holger Krekel and others
 pytest-lsp | No Copyright Found
 raf | Copyright 2013 Chris Dickinson <chris@neversaw.us>
@@ -806,12 +897,17 @@ resolve | Copyright (c) 2012 James Halliday
 resolve-from | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 rfdc | Copyright 2019 "David Mark Clements <david.mark.clements@gmail.com>"
 rgbcolor | Copyright (c) 2016 Stoyan Stefanov http://phpied.com/
+rollup | Copyright (c) 2017 the rollup project contributors
+rope-sequence | Copyright (C) 2016 by Marijn Haverbeke <marijn@haverbeke.berlin> 
 sade | Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (https://lukeed.com)
 safe-buffer | Copyright (c) Feross Aboukhadijeh
 safe-stable-stringify | Copyright (c) Ruben Bridgewater
+sanitize-html | Copyright (c) 2013, 2014, 2015 P'unk Avenue LLC
 sass | Copyright (c) 2016 And Google Inc.
 scheduler | Copyright (c) Facebook And Inc. and its affiliates.
 sha.js | Copyright (c) 2013-2018 sha.js contributors And Copyright (c) 1998 - 2009 Paul Johnston & Contributors
+shebang-command | Copyright (c) Kevin Mårtensson <kevinmartensson@gmail.com> (github.com/kevva)
+shebang-regex | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 sift | Copyright (c) 2015 Craig Condon
 simple-concat | Copyright (c) Feross Aboukhadijeh
 simple-get | Copyright (c) Feross Aboukhadijeh
@@ -821,6 +917,7 @@ space-separated-tokens | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 sparse-bitfield | Copyright (c) 2016 Mathias Buus
 stack-trace | Copyright (c) 2012 Felix Geisend√∂rfer (felix@debuggable.com) and contributors
 stackblur-canvas | Copyright (c) 2010 Mario Klingemann
+starter-kit | Copyright (c) 2025, Tiptap GmbH
 stopwords-iso | Copyright (c) 2020 Gene Diaz
 streamroller | Copyright (c) 2013 Gareth Jones
 string_decoder | Copyright Node.js contributors. All rights reserved.
@@ -828,6 +925,7 @@ strnum | Copyright (c) 2021 Natural Intelligence
 style-to-object | Copyright (c) 2017 Menglin "Mark" Xu <mark@remarkablemark.org>
 stylis | Copyright (c) 2016-present Sultan Tarimo
 substyle | Copyright (c) 2016 Jan-Felix
+suggestion | Copyright (c) 2025, Tiptap GmbH
 supports-color | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 supports-preserve-symlinks-flag | Copyright (c) 2022 Inspect JS
 svg-pathdata | Copyright (c) 2017 Nicolas Froidure
@@ -837,11 +935,13 @@ tabbable | Copyright (c) 2015 David Clark
 text-hex | Copyright (c) 2014-2015 Arnout Kazemier <opensource@3rd-Eden.com>
 text-segmentation | Copyright (c) 2021 Niklas von Hertzen
 tiny-invariant | Copyright (c) 2019 Alexander Reardon
+tippy.js | Copyright (c) 2017-present atomiks
 to-fast-properties | Copyright (c) 2014 Petka Antonov
 to-regex-range | Copyright (c) 2015-2016 Jon Schlinkert.
 toggle-selection | Copyright (c) 2017 sudodoki <smd.deluzion@gmail.com>
 tomli | Copyright (c) 2021 Taneli Hukkinen
 tr46 | Copyright (c) 2016 Sebastian Mayr
+traverse | Copyright (c) 2010 James Halliday and contributors
 trim-lines | Copyright (c) 2015 Titus Wormer <mailto:tituswormer@gmail.com>
 triple-beam | Copyright (c) 2017 winstonjs
 trough | Copyright (c) 2016 Titus Wormer
@@ -849,7 +949,9 @@ ts-node | Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 typescript-compare | Copyright (c) 2018 Hoàng Văn Khải
 typescript-logic | Copyright (c) 2018 Hoàng Văn Khải
 typescript-tuple | Copyright (c) 2018 Hoàng Văn Khải
+uc.micro | Copyright Mathias Bynens <https://mathiasbynens.be/>
 underscore | Copyright (c) 2009-2022 Jeremy Ashkenas And Julian Gonggrijp And and DocumentCloud and Investigative Reporters & Editors
+undici-types | Copyright (c) Matteo Collina and Undici contributors
 unified | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
 unist-util-generated | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 unist-util-is | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
@@ -860,6 +962,7 @@ unist-util-visit-parents | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.co
 universalify | Copyright (c) 2017 Ryan Zimmerman <opensrc@ryanzim.com>
 use-memo-one | Copyright (c) 2019 Alexander Reardon
 use-resize-observer | Copyright 2018 Viktor Hubert <rpgmorpheus@gmail.com>
+use-sync-external-store | Copyright (c) Meta Platforms, Inc. and affiliates.
 usehooks-ts | Copyright (c) 2020 Julien CARON
 util-deprecate | Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net>
 utrie | Copyright (c) 2021 Niklas von Hertzen
@@ -869,6 +972,8 @@ v8-compile-cache-lib | Copyright (c) 2019 Andres Suarez
 vfile | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
 vfile-location | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 vfile-message | Copyright (c) 2017 Titus Wormer <tituswormer@gmail.com>
+vite | Copyright (c) 2019-present, VoidZero Inc. and Vite contributors
+vite-plugin-dts | Copyright (c) 2021-present qmhc
 vscode-jsonrpc | Copyright (c) Microsoft Corporation
 vscode-languageclient | Copyright (c) Microsoft Corporation
 vscode-languageserver | Copyright (c) Microsoft Corporation
@@ -876,16 +981,20 @@ vscode-languageserver-protocol | Copyright (c) Microsoft Corporation
 vscode-languageserver-textdocument | Copyright (c) Microsoft Corporation
 vscode-languageserver-types | Copyright (c) Microsoft Corporation
 vscode-uri | Copyright (c) Microsoft
+vscode-webview | Copyright (c) Microsoft
+w3c-keyname | Copyright (C) 2016 by Marijn Haverbeke <marijn@haverbeke.berlin> and others
 web-namespaces | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
-web-streams-polyfill | Copyright (c) 2024 Mattias Buelens
- And Copyright (c) 2016 Diwank Singh Tomer
+web-streams-polyfill | Copyright (c) 2024 Mattias Buelens And Copyright (c) 2016 Diwank Singh Tomer
 web-tree-sitter | Copyright (c) 2018-2021 Max Brunsfeld
+whatwg-fetch | Copyright (c) 2014-2023 GitHub, Inc.
 whatwg-url | Copyright (c) Sebastian Mayr
 window-or-global | Copyright (c) Purpose Industries
 winston | Copyright (c) 2010 Charlie Robbins
 winston-daily-rotate-file | Copyright (c) 2015-2024 winstonjs
 winston-transport | Copyright (c) 2015 Charlie Robbins & the contributors.
 wordnet-db | Copyright 2006 by Princeton University.  All rights reserved.
+ws | Copyright (c) 2011 Einar Otto Stangvik, Copyright (c) 2013 Arnout Kazemier and contributors, 
+and Copyright (c) 2016 Luigi Pinca and contributors
 xtend | Copyright (c) 2012-2014 Raynos.
 yn | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 zipp | Copyright Jason R. CoombsName
@@ -1086,6 +1195,6 @@ END OF NOTICES AND INFORMATION
 END OF NOTICES AND INFORMATION FILE
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-L/N: L-EPWW-3MYZBR
-D/N: L-EPWW-3MYZBR
-P/N: L-EPWW-3MYZBR
+L/N: L-JRWC-NMZHB4
+D/N: L-JRWC-NMZHB4
+P/N: L-JRWC-NMZHB4
