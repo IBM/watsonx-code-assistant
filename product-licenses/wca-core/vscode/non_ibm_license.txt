@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM watsonx Code Assistant (extension for Visual Studio Code) V1.1
+IBM watsonx Code Assistant (extension for Visual Studio Code) V1.4
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -30,7 +30,6 @@ TABLE OF CONTENTS
 THIS NON-IBM-LICENSE FILE CONSISTS OF THE FOLLOWING SECTIONS:
 
 OFL-1.1
-CC-BY-1.0
 CC-BY-4.0
 
 
@@ -144,20 +143,6 @@ END OF SIL OPEN FONT LICENSE 1.1 NON-IBM LICENSE INFORMATION
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-CREATIVE COMMONS ATTRIBUTION 1.0
-
-The Program includes some or all of the following works licensed under
-the Creative Commons.
-The url to the license is https://creativecommons.org/licenses/by/1.0/legalcode
-
-highlightjs-vue | Copyright (c) 2019, Sara Lissette Luis Ibáñez | https://www.npmjs.com/package/highlightjs-vue/v/1.0.0
-
-
-END OF CREATIVE COMMONS ATTRIBUTION 4.0 NON-IBM-LICENSE INFORMATION
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 CREATIVE COMMONS ATTRIBUTION 4.0
 
 The Program includes some or all of the following works licensed under
@@ -173,6 +158,6 @@ END OF CREATIVE COMMONS ATTRIBUTION 4.0 NON-IBM-LICENSE INFORMATION
 
 
 
-L/N: L-JLCG-4L8NFT
-D/N: L-JLCG-4L8NFT
-P/N: L-JLCG-4L8NFT
+L/N: L-ZJCU-UHCULC
+D/N: L-ZJCU-UHCULC
+P/N: L-ZJCU-UHCULC
