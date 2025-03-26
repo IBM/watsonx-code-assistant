@@ -42,8 +42,7 @@ BSD-3-Clause
 EPL-2.0
 ISC
 MIT
-Unicode-TOU
-
+Unicode
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -371,7 +370,9 @@ expand-home-dir | No Copyright Found
 highlight.js | Copyright 2006 Ivan Sagalaev
 hoist-non-react-statics | Copyright (c) 2015, Yahoo! Inc. All rights reserved.
 org.antlr:antlr4-runtime | Copyright (c) 2012-2017 The ANTLR Project. All rights reserved.
-org.eclipse.jgit:org.eclipse.jgit | Copyright (c) 2007 Eclipse Foundation Inc. and its licensors.
+org.eclipse.jgit:org.eclipse.jgit | Copyright (C) 2009, Google Inc. And Copyright (C) 2009, Igor Fedorenko <igor@ifedorenko.com> And Copyright (C) 2008, Imran M Yousuf <imyousuf@smartitengineering.com> And Copyright (C) 2010, Matthias Sohn <matthias.sohn@sap.com> and others
+
+
 org.ow2.asm:asm | Copyright (c) 2000-2011 INRIA, France Telecom All rights reserved.
 source-map | Copyright 2009-2011 Mozilla Foundation and contributors
 
@@ -434,7 +435,8 @@ ISC LICENSE
 The Program includes some or all of the following that IBM obtained
 under the ISC License.
 
-fastq | Copyright 2015-2020 Matteo Collina <matteo.collina@gmail.com>
+fastq | Copyright (c) 2015-2020 Matteo Collina <matteo.collina@gmail.com>	
+flatted | Copyright (c) 2018-2020, Andrea Giammarchi, @WebReflection
 fs | No Copyright Found
 glob-parent | Copyright 2015-2019 Elan Shanker
 lru-cache | Copyright (c) 2010-2023 Isaac Z. Schlueter and Contributors
@@ -467,14 +469,16 @@ MIT LICENSE
 The Program includes some or all of the following that IBM obtained
 under the MIT License:
 
-@babel/core | Copyright 2014 Sebastian McKenzie and other contributors 
-@babel/code-frame | Copyright 2014 Sebastian McKenzie and other contributors
-@babel/helper-compilation-targets | Copyright 2014 Sebastian McKenzie and other contributors
-@babel/helper-module-imports | Copyright 2014 Sebastian McKenzie and other contributors
-@babel/helper-string-parser | Copyright 2014 Sebastian McKenzie and other contributors
-@babel/helper-validator-identifier | Copyright 2014 Sebastian McKenzie and other contributors
-@babel/highlight | Copyright 2014 Sebastian McKenzie and other contributors
-@babel/runtime | Copyright 2014 Sebastian McKenzie and other contributors 	
+@babel/code-frame | Copyright (c) 2014-present Sebastian McKenzie and other contributors  	
+@babel/generator | Copyright (c) 2014-present Sebastian McKenzie and other contributors
+@babel/helper-module-imports | Copyright (c) 2014-present Sebastian McKenzie and other contributors
+@babel/helper-string-parser | Copyright (c) 2014-present Sebastian McKenzie and other contributors
+@babel/helper-validator-identifier | Copyright (c) 2014-present Sebastian McKenzie and other contributors
+@babel/highlight | Copyright (c) 2014-present Sebastian McKenzie and other contributors
+@babel/parser | Copyright (C) 2012-2014 by various contributors
+@babel/template | Copyright (c) 2014-present Sebastian McKenzie and other contributors
+@babel/runtime | Copyright (c) 2014-present Sebastian McKenzie and other contributors
+@babel/traverse | Copyright (c) 2014-present Sebastian McKenzie and other contributors	
 @babel/types | Copyright (c) 2014-present Sebastian McKenzie and other contributors
 @emotion/babel-plugin | Copyright (c) Emotion team and other contributors
 @emotion/cache | Copyright (c) Emotion team and other contributors
@@ -494,6 +498,7 @@ under the MIT License:
 @floating-ui/react | Copyright 2021 Floating UI contributors
 @floating-ui/react-dom | Copyright 2021 Floating UI contributors
 @floating-ui/utils | Copyright 2021 Floating UI contributors
+@jridgewell/resolve-uri | Copyright 2019 Justin Ridgewell <jridgewell@google.com>
 @jridgewell/sourcemap-codec | Copyright (c) 2015 Rich Harris
 @kurkle/color | Copyright (c) 2018-2021 Jukka Kurkela
 @nodelib/fs.scandir | Copyright Denis Malinochkin
@@ -509,6 +514,7 @@ under the MIT License:
 @types/hast | Copyright (c) Microsoft Corporation
 @types/mdast | Copyright (c) Microsoft Corporation 	
 @types/ms | Copyright (c) Microsoft Corporation
+@types/node |  No Copyright Found
 @types/parse-json | Copyright (c) Microsoft Corporation
 @types/scheduler | Copyright (c) Microsoft Corporation
 @types/prop-types | Copyright (c) Microsoft Corporation
@@ -526,7 +532,8 @@ babel-plugin-macros | Copyright (c) 2020 Kent C. Dodds
 bail | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
 braces | Copyright (c) 2019 Jon Schlinkert (https://github.com/jonschlinkert)
 body-parser | Copyright (c) 2014 Jonathan Ong <me@jongleberry.com> And Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com>	
-browserslist |  Copyright 2014 Andrey Sitnik <andrey@sitnik.ru> and other contributors	
+call-bind-apply-helpers | Copyright (c) 2024 Jordan Harband
+call-bound | Copyright (c) 2024 Jordan Harband
 callsites | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 ccount | Copyright 2015 Titus Wormer <tituswormer@gmail.com>
 chalk | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 	
@@ -548,12 +555,16 @@ copy-to-clipboard | Copyright 2017 sudodoki <smd.deluzion@gmail.com>
 cosmiconfig | Copyright 2015 David Clark
 csstype | Copyright 2017-2018 Fredrik Nicol
 debug | Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>, Copyright (c) 2018-2021 Josh Junon
-decode-named-character-reference | Copyright 2021 Titus Wormer <tituswormer@gmail.com>
+decode-named-character-reference | Copyright (c) Titus Wormer <tituswormer@gmail.com>
 dequal | Copyright Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
 devlop | Copyright 2023 Titus Wormer <tituswormer@gmail.com>
 downshift | Copyright 2017 PayPal
+dunder-proto | Copyright (c) 2024 ECMAScript Shims
 error-ex | Copyright 2015 JD Ballard
 escape-string-regexp | Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+es-define-property | Copyright (c) 2024 Jordan Harband
+es-object-atoms | Copyright (c) 2024 Jordan Harband
+es-toolkit | Copyright 2024 Viva Republica, Inc
 estree-util-is-identifier-name | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
 estree-walker | Copyright 2015 [these people](https://github.com/Rich-Harris/estree-walker/graphs/contributors)
 extend | Copyright 2014 Stefan Thomas 	
@@ -564,9 +575,14 @@ find-root | Copyright 2017 jsdnxx
 flatpickr | Copyright 2017 Gregory Petrosyan
 format | Copyright 2010-2014 Sami Samhuri sami@samhuri.net
 fs-extra | Copyright 2011-2017 JP Richardson 	
-function-bind | Copyright 2013 Raynos
+function-bind | Copyright 2013 Raynos 	
+get-intrinsic | Copyright (c) 2020 Jordan Harband	
+get-proto | Copyright (c) 2025 Jordan Harband
+gopd | Copyright (c) 2022 Jordan Harband
 has-flag | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+has-symbols | Copyright (c) 2016 Jordan Harband
 hasown | Copyright Jordan Harband and contributors
+html-parse-stringify | No Copyright Found
 hast-util-from-parse5 | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
 hast-util-parse-selector | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
 hast-util-raw | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
@@ -574,7 +590,9 @@ hast-util-to-jsx-runtime | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
 hast-util-to-parse5 | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
 hast-util-whitespace | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
 html-url-attributes | Copyright Titus Wormer	
-html-void-elements | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
+html-void-elements | Copyright 2016 Titus Wormer <tituswormer@gmail.com> 	
+i18next | Copyright (c) 2025 i18next 	
+i18next-browser-languagedetector | Copyright (c) 2024 i18next
 import-fresh | Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 inline-style-parser | Copyright 2012 TJ Holowaychuk <tj@vision-media.ca>
 invariant | Copyright 2013 Facebook, Inc
@@ -605,6 +623,7 @@ lowlight | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
 marked | Copyright (c) 2018+ And MarkedJS (https://github.com/markedjs/) And Copyright (c) 2011-2018 And Christopher Jeffrey (https://github.com/chjj/)
 marked-react | Copyright (c) 2021-present Sibiraj
 match-sorter | Copyright (c) 2020 Kent C. Dodds
+math-intrinsics | Copyright (c) 2024 ECMAScript Shims
 mdast-util-from-markdown | Copyright 2020 Titus Wormer <tituswormer@gmail.com> 	
 mdast-util-mdx-expression | Copyright 2020 Titus Wormer <tituswormer@gmail.com> 	
 mdast-util-mdx-jsx | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
@@ -639,11 +658,12 @@ moment | Copyright (c) JS Foundation and other contributors
 ms | Copyright 2016 Zeit, Inc
 natural | Copyright (c) 2011 And 2012 Chris Umbel And Rob Ellis And Russell Mull
 node-fetch | Copyright (c) 2016 - 2020 Node Fetch Team 	
+object-inspect | Copyright (c) 2013 James Halliday
 object-assign | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 org.apfloat:apfloat | Copyright (c) 2002-2023 Mikko Tommila
 org.checkerframework:checker-qual | Copyright 2004-present by the Checker Framework developers
 org.jsoup:jsoup | Copyright (c) 2009-2024 Jonathan Hedley <https://jsoup.org/>
-org.slf4j:slf4j-api | Copyright (c) 2004-2011 QOS.ch
+org.slf4j:slf4j-api | Copyright (c) 2004-2022 QOS.ch Sarl (Switzerland)
 org.slf4j:slf4j-jdk14 | Copyright (c) 2004-2023 QOS.ch
 parent-module | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 parse-entities | Copyright 2015 Titus Wormer <mailto:tituswormer@gmail.com>
@@ -661,6 +681,7 @@ queue-microtask | Copyright Feross Aboukhadijeh
 react | Copyright (c) Facebook And Inc. and its affiliates
 react-dom | Copyright (c) Facebook And Inc. and its affiliates
 react-draggable | Copyright 2014-2016 Matt Zabriskie
+react-i18next | Copyright (c) 2024 i18next
 react-is | Copyright Facebook, Inc. and its affiliates
 react-markdown | Copyright (c) 2015 Espen Hovlandsdal
 react-router | Copyright (c) React Training LLC 2015-2019 And Copyright (c) Remix Software Inc. 2020-2021 And Copyright (c) Shopify Inc. 2022-2023
@@ -674,9 +695,13 @@ remark-rehype | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
 resize-observer-polyfill | Copyright (c) 2016 Denis Rul 	
 resolve | Copyright 2012 James Halliday
 resolve-from | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 	
-reusify | Copyright (c) 2015 Matteo Collina
+reusify | Copyright (c) 2015-2024 Matteo Collina
 run-parallel | Copyright (c) Feross Aboukhadijeh
 scheduler | Copyright (c) Facebook, Inc. and its affiliates 	
+side-channel | Copyright (c) 2019 Jordan Harband
+side-channel-list | Copyright (c) 2024 Jordan Harband
+side-channel-map | Copyright (c) 2024 Jordan Harband
+side-channel-weakmap | Copyright (c) 2019 Jordan Harband
 simple-swizzle | Copyright (c) 2015 Josh Junon
 space-separated-tokens | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 steamroller | Copyright 2013 Gareth Jones
@@ -705,6 +730,7 @@ uuid | Copyright (c) 2010-2020 Robert Kieffer and other contributors
 vfile | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
 vfile-location | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
 vfile-message | Copyright (c) 2017 Titus Wormer <tituswormer@gmail.com>
+void-elements | Copyright (c) 2014 hemanth
 vscode-languageclient | Copyright (c) Microsoft Corporation
 web-tree-sitter | Copyright (c) 2018-2021 Max Brunsfeld 	
 web-namespaces | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
@@ -737,45 +763,45 @@ END OF MIT LICENSE NOTICES AND INFORMATION
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Unicode-TOU
+UNICODE LICENSE
 
 The Program includes some or all of the following that IBM obtained
-under a Unicode-TOU license:
+under the Unicode License:
 
-com.ibm.icu:icu4j | Copyright (c) 2016 and later: Unicode And Inc. and others. | https://mvnrepository.com/artifact/com.ibm.icu/icu4j/68.1
+icu4j | Copyright © 1991-2020 Unicode, Inc.
 
-Unicode Terms of Use
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of data files and any associated documentation (the "Data Files") or
+software and any associated documentation (the "Software") to deal in the
+Data Files or Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, and/or sell
+copies of the Data Files or Software, and to permit persons to whom the
+Data Files or Software are furnished to do so, provided that either 
+(a) this copyright and permission notice appear with all copies of the Data
+Files or Software, or (b) this copyright and permission notice appear in 
+associated Documentation.
 
-For the general privacy policy governing access to this site, see the Unicode Privacy Policy. For trademark usage, see the Unicode® Consortium Name and Trademark Usage Policy.
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF
+THIRD PARTY RIGHTS.
 
-A. Unicode Copyright.
-1. Copyright © 1991-2014 Unicode, Inc. All rights reserved.
-2. Certain documents and files on this website contain a legend indicating that "Modification is permitted." Any person is hereby authorized, without fee, to modify such documents and files to create derivative works conforming to the Unicode® Standard, subject to Terms and Conditions herein.
-3. Any person is hereby authorized, without fee, to view, use, reproduce, and distribute all documents and files solely for informational purposes in the creation of products supporting the Unicode Standard, subject to the Terms and Conditions herein.
-4. Further specifications of rights and restrictions pertaining to the use of the particular set of data files known as the "Unicode Character Database" can be found in Exhibit 1.
-5. Each version of the Unicode Standard has further specifications of rights and restrictions of use. For the book editions (Unicode 5.0 and earlier), these are found on the back of the title page. The online code charts carry specific restrictions. All other files, including online documentation of the core specification for Unicode 6.0 and later, are covered under these general Terms of Use.
-6. No license is granted to "mirror" the Unicode website where a fee is charged for access to the "mirror" site.
-7. Modification is not permitted with respect to this document. All copies of this document must be verbatim.
-B. Restricted Rights Legend. Any technical data or software which is licensed to the United States of America, its agencies and/or instrumentalities under this Agreement is commercial technical data or commercial computer software developed exclusively at private expense as defined in FAR 2.101, or DFARS 252.227-7014 (June 1995), as applicable. For technical data, use, duplication, or disclosure by the Government is subject to restrictions as set forth in DFARS 202.227-7015 Technical Data, Commercial and Items (Nov 1995) and this Agreement. For Software, in accordance with FAR 12-212 or DFARS 227-7202, as applicable, use, duplication or disclosure by the Government is subject to the restrictions set forth in this Agreement.
-C. Warranties and Disclaimers.
-1. This publication and/or website may include technical or typographical errors or other inaccuracies . Changes are periodically added to the information herein; these changes will be incorporated in new editions of the publication and/or website. Unicode may make improvements and/or changes in the product(s) and/or program(s) described in this publication and/or website at any time.
-2. If this file has been purchased on magnetic or optical media from Unicode, Inc. the sole and exclusive remedy for any claim will be exchange of the defective media within ninety (90) days of original purchase.
-3. EXCEPT AS PROVIDED IN SECTION C.2, THIS PUBLICATION AND/OR SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. UNICODE AND ITS LICENSORS ASSUME NO RESPONSIBILITY FOR ERRORS OR OMISSIONS IN THIS PUBLICATION AND/OR SOFTWARE OR OTHER DOCUMENTS WHICH ARE REFERENCED BY OR LINKED TO THIS PUBLICATION OR THE UNICODE WEBSITE.
-D. Waiver of Damages. In no event shall Unicode or its licensors be liable for any special, incidental, indirect or consequential damages of any kind, or any damages whatsoever, whether or not Unicode was advised of the possibility of the damage, including, without limitation, those resulting from the following: loss of use, data or profits, in connection with the use, modification or distribution of this information or its derivatives.
-E. Trademarks & Logos.
-1. The Unicode Word Mark and the Unicode Logo are trademarks of Unicode, Inc. "The Unicode Consortium" and "Unicode, Inc." are trade names of Unicode, Inc. Use of the information and materials found on this website indicates your acknowledgement of Unicode, Inc.'s exclusive worldwide rights in the Unicode Word Mark, the Unicode Logo, and the Unicode trade names.
-2. The Unicode Consortium Name and Trademark Usage Policy ("Trademark Policy") are incorporated herein by reference and you agree to abide by the provisions of the Trademark Policy, which may be changed from time to time in the sole discretion of Unicode, Inc.
-3. All third party trademarks referenced herein are the property of their respective owners.
-F. Miscellaneous.
-1. Jurisdiction and Venue. This server is operated from a location in the State of California, United States of America. Unicode makes no representation that the materials are appropriate for use in other locations. If you access this server from other locations, you are responsible for compliance with local laws. This Agreement, all use of this site and any claims and damages resulting from use of this site are governed solely by the laws of the State of California without regard to any principles which would apply the laws of a different jurisdiction. The user agrees that any disputes regarding this site shall be resolved solely in the courts located in Santa Clara County, California. The user agrees said courts have personal jurisdiction and agree to waive any right to transfer the dispute to any other forum.
-2. Modification by Unicode Unicode shall have the right to modify this Agreement at any time by posting it to this site. The user may not assign any part of this Agreement without Unicode's prior written consent.
-3. Taxes. The user agrees to pay any taxes arising from access to this website or use of the information herein, except for those based on Unicode's net income.
-4. Severability. If any provision of this Agreement is declared invalid or unenforceable, the remaining provisions of this Agreement shall remain in effect.
-5. Entire Agreement. This Agreement constitutes the entire agreement between the parties.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE
+BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES,
+OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA
+FILES OR SOFTWARE.
 
-END OF Unicode-TOU NOTICES AND INFORMATION
+Except as contained in this notice, the name of a copyright holder shall
+not be used in advertising or otherwise to promote the sale, use or other
+dealings in these Data Files or Software without prior written
+authorization of the copyright holder.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+END OF UNICODE LICENSE NOTICES AND INFORMATION
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 END OF NOTICES AND INFORMATION
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
