@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM watsonx Code Assistant for Enterprise Java Applications (extension for Visual Studio Code and Eclipse) V1.0
+IBM watsonx Code Assistant for Enterprise Java Applications (extension for Visual Studio Code and Eclipse) 1.1.x
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -25,121 +25,26 @@ and all liability for errors and omissions or for any damages accruing
 from the use of this NOTICES file or its contents, including without
 limitation URLs or references to any third party websites.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-NOTICES AND INFORMATION FOR IBM watson Code Assistant for Enterprise Java Applications (extension for Visual Studio Code and Eclipse)  
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
 TABLE OF CONTENTS
 
 THIS IBM NOTICES FILE CONSISTS OF THE FOLLOWING SECTIONS:
 
-0BSD
-Apache-2.0
-BSD-2-Clause
-BSD-3-Clause
-EPL-2.0
-ISC
-MIT
-Unicode
+Apache License, Version 2.0 (APACHE V2)
+BSD Zero Clause license (BSD)
+ISC License (ISC)
+MIT license (MIT)
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-BSD Zero Clause LICENSE
-
-The Program includes some or all of the following packages that IBM 
-obtained under the BSD Zero Clause License:
-
-tslib | Copyright (c) Microsoft Corporation.
-
-
-Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-
-END OF BSD Zero Clause LICENSE NOTICES AND INFORMATION
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-APACHE SOFTWARE LICENSE 2.0
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Apache License, Version 2.0
 
 The Program includes some or all of the following that IBM obtained
-under the Apache License Version 2.0:
+under the Apache License, Version 2.0:
 
-@carbon/colors
-@carbon/feature-flags 	
-@carbon/grid
-@carbon/icon-helpers
-@carbon/icons-react
-@carbon/layout 	
-@carbon/motion
-@carbon/react
-@carbon/styles
-@carbon/themes
-@carbon/type
-@ibm/telemetry-js
-axios-retry
-codeanalyzer
-com.github.javaparser:javaparser-core
-com.github.javaparser:javaparser-symbol-solver-core
-com.google.code.findbugs:jsr305
-com.google.code.gson:gson
-com.google.errorprone:error_prone_annotations
-com.google.guava:guava
-com.google.guava:failureaccess
-com.google.guava:listenablefuture
-com.google.j2objc:j2objc-annotations
-com.googlecode.javaewah:JavaEWAH
-com.ibm.ta.sdk:ta-sdk-core
-com.ibm.ta.sdk:ta-sdk-spi
-com.jayway.jsonpath:json-path
-commons-cli:commons-cli
-commons-codec:commons-codec
-commons-collections:commons-collections
-commons-dbcp:commons-dbcp
-commons-io:commons-io
-commons-lang:commons-lang
-commons-logging:commons-logging
-commons-pool:commons-pool
-dompurify
-find-java-home
-info.picocli:picocli
-javax.inject:javax.inject
-log4js
-net.minidev:accessors-smart
-net.minidev:json-smart
-org.apiguardian:apiguardian-api
-org.apache.abdera:abdera-core
-org.apache.abdera:abdera-i18n
-org.apache.commons:commons-compress
-org.apache.commons:commons-lang3
-org.apache.commons:commons-text
-org.apache.httpcomponents:httpclient
-org.apache.httpcomponents:httpcore
-org.apache.johnzon:johnzon-core
-org.apache.logging.log4j:log4j-api
-org.apache.logging.log4j:log4j-core
-org.apache.maven.shared:maven-invoker
-org.apache.maven.shared:maven-shared-utils
-org.apache.maven.wrapper:maven-wrapper
-org.apache.maven:maven-model
-org.apache.struts:struts2-core
-org.assertj:assertj-core
-org.codehaus.plexus:plexus-utils
-org.freemarker:freemarker
-org.gradle:gradle-tooling-api
-org.javassist:javassist
-org.jheaps:jheaps
-org.leadpony.justify:justify
-org.opentest4j:opentest4j
-org.osgi:org.osgi.service.prefs
-org.osgi:osgi.annotation
-org.tinylog:tinylog-api
-org.tinylog:tinylog-impl
-org.yaml:snakeyaml
-short-unique-id
+colors-11.30.0.tgz, feature-flags-0.25.0.tgz, grid-11.33.0.tgz,
+icon-helpers-10.56.0.tgz, icons-react-11.57.0.tgz, layout-11.31.0.tgz,
+log4js-6.9.1.tgz, motion-11.25.0.tgz, react-1.79.0.tgz, styles-1.78.0.tgz,
+telemetry-js-1.9.1.tgz, themes-11.49.0.tgz, type-11.37.0.tgz
+
 
 Apache License
 Version 2.0, January 2004
@@ -160,7 +65,7 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
    control with that entity. For the purposes of this definition,
    "control" means (i) the power, direct or indirect, to cause the
    direction or management of such entity, whether by contract or
-   otherwise, or (ii) ownership of fifty percent (50%%) or more of the
+   otherwise, or (ii) ownership of fifty percent (50%) or more of the
    outstanding shares, or (iii) beneficial ownership of such entity.
 
    "You" (or "Your") shall mean an individual or Legal Entity
@@ -318,132 +223,40 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 END OF TERMS AND CONDITIONS
 
-END OF APACHE LICENSE 2.0 NOTICES AND INFORMATION
+END OF Apache License, Version 2.0 NOTICES AND INFORMATION
 
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-BSD-2-CLAUSE LICENSE
-
-The Program includes some or all of the following packages that IBM 
-obtained under the BSD-2-Clause License:
-
-entities | Copyright (c) Felix Böhm. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without 
-modification, are permitted provided that the following conditions are 
-met: 
-
-* Redistributions of source code must retain the above copyright notice, 
-  this list of conditions and the following disclaimer.
-* Redistributions in binary form must reproduce the above copyright 
-  notice, this list of conditions and the following disclaimer in the 
-  documentation and/or other materials provided with the distribution. 
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS 
-IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED 
-TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
-PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT 
-HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED 
-TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR 
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-END OF BSD-2-CLAUSE LICENSE NOTICES AND INFORMATION
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-BSD-3-Clause LICENSE
-
-The Program includes some or all of the following packages that IBM 
-obtained under the BSD-3-Clause License:
-
-com.github.vlsi.mxgraph:jgraphx | Copyright (c) 2001-2014 And Vladimir Sitnikov
-dojo | Copyright (c) 2005-2012 The Dojo Foundation
-dojox | Copyright (c) 2005-2012 The Dojo Foundation
-expand-home-dir | No Copyright Found
-highlight.js | Copyright 2006 Ivan Sagalaev
-hoist-non-react-statics | Copyright (c) 2015, Yahoo! Inc. All rights reserved.
-org.antlr:antlr4-runtime | Copyright (c) 2012-2017 The ANTLR Project. All rights reserved.
-org.eclipse.jgit:org.eclipse.jgit | Copyright (C) 2009, Google Inc. And Copyright (C) 2009, Igor Fedorenko <igor@ifedorenko.com> And Copyright (C) 2008, Imran M Yousuf <imyousuf@smartitengineering.com> And Copyright (C) 2010, Matthias Sohn <matthias.sohn@sap.com> and others
-
-
-org.ow2.asm:asm | Copyright (c) 2000-2011 INRIA, France Telecom All rights reserved.
-source-map | Copyright 2009-2011 Mozilla Foundation and contributors
-
-Redistribution and use in source and binary forms, with or without 
-modification, are permitted provided that the following conditions are 
-met: 
-
-* Redistributions of source code must retain the above copyright notice, 
-  this list of conditions and the following disclaimer. 
-* Redistributions in binary form must reproduce the above copyright 
-  notice, this list of conditions and the following disclaimer in the 
-  documentation and/or other materials provided with the distribution. 
-* Neither the name of the <ORGANIZATION> nor the names of its 
-  contributors may be used to endorse or promote products derived from 
-  this software without specific prior written permission. 
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS 
-IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED 
-TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
-PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER 
-OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, 
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR 
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
-
-END OF BSD 3-CLAUSE LICENSE NOTICES AND INFORMATION
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-ECLIPSE PUBLIC LICENSE, VERSION 2
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BSD Zero Clause license
 
 The Program includes some or all of the following that IBM obtained
-under the Eclipse Public License (source code available via the
-indicated URL):
+under the BSD Zero Clause license:
 
-jakarta.json:jakarta.json-api | https://repo1.maven.org/maven2/jakarta/json/jakarta.json-api/2.0.0/jakarta.json-api-2.0.0-sources.jar
-org.jgrapht:jgrapht-core | https://repo1.maven.org/maven2/org/jgrapht/jgrapht-core/1.5/jgrapht-core-1.5.2-sources.jar
-org.jgrapht:jgrapht-ext | https://repo1.maven.org/maven2/org/jgrapht/jgrapht-ext/1.5.2/jgrapht-ext-1.5.2-sources.jar
-org.jgrapht:jgrapht-io | https://repo1.maven.org/maven2/org/jgrapht/jgrapht-io/1.5.2/jgrapht-io-1.5.2-sources.jar
-org.junit-pioneer:junit-pioneer | https://repo1.maven.org/maven2/org/junit-pioneer/junit-pioneer/2.3.0/junit-pioneer-2.3.0-sources.jar
-org.junit.jupiter:junit-jupiter-api | https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2-sources.jar
-org.junit.jupiter:junit-jupiter-engine | https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2-sources.jar
-org.junit.jupiter:junit-jupiter-migrationsupport | https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-migrationsupport/5.11.2 	
-org.junit.platform:junit-platform-commons | https://mvnrepository.com/artifact/org.junit.platform/junit-platform-commons/1.10.2
-org.junit.platform:junit-platform-engine | https://mvnrepository.com/artifact/org.junit.platform/junit-platform-engine/1.10.2
-org.junit.vintage:junit-vintage-engine | https://mvnrepository.com/artifact/org.junit.vintage/junit-vintage-engine/5.11.2
-org.junit:junit-bom | https://mvnrepository.com/artifact/org.junit/junit-bom/5.9.2
+tslib-2.8.1.tgz (Copyright Microsoft Corporation)
 
-END OF ECLIPSE PUBLIC LICENSE, VERSION 2 NOTICES AND INFORMATION
+Permission to use, copy, modify, and/or distribute this software for any 
+purpose with or without fee is hereby granted.
 
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES 
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR 
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES 
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN 
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF 
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+END OF BSD Zero Clause license NOTICES AND INFORMATION
 
-ISC LICENSE
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ISC License
 
 The Program includes some or all of the following that IBM obtained
-under the ISC License.
+under the ISC License:
 
-fastq | Copyright (c) 2015-2020 Matteo Collina <matteo.collina@gmail.com>	
-flatted | Copyright (c) 2018-2020, Andrea Giammarchi, @WebReflection
-fs | No Copyright Found
-glob-parent | Copyright 2015-2019 Elan Shanker
-lru-cache | Copyright (c) 2010-2023 Isaac Z. Schlueter and Contributors
-picocolors | Copyright 2021 Alexey Raspopov, Kostiantyn Denysov, Anton Verinov
-semver | Copyright Isaac Z. Schlueter and Contributors
-structured-clone | Copyright 2021 Andrea Giammarchi, @WebReflection
-yaml | Copyright 2018 Eemeli Aro <eemeli@gmail.com>
+flatted-3.3.3.tgz (Copyright 2018-2020 Andrea Giammarchi)
+graceful-fs-4.2.11.tgz (Copyright 2011-2022 Isaac Z. Schlueter)
+minimatch-9.0.3.tgz (Copyright 2011-2023 Isaac Z. Schlueter and Contributors)
+semver-7.7.2.tgz (Copyright Isaac Z. Schlueter and Contributors) (Copyright Isaac Z. Schlueter and Contributors)
+
 
 ISC License
 
@@ -459,356 +272,103 @@ WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-END OF ISC LICENSE NOTICES AND INFORMATION
 
+END OF ISC License NOTICES AND INFORMATION
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-MIT LICENSE
-
-The Program includes some or all of the following that IBM obtained
-under the MIT License:
-
-@babel/code-frame | Copyright (c) 2014-present Sebastian McKenzie and other contributors  	
-@babel/generator | Copyright (c) 2014-present Sebastian McKenzie and other contributors
-@babel/helper-module-imports | Copyright (c) 2014-present Sebastian McKenzie and other contributors
-@babel/helper-string-parser | Copyright (c) 2014-present Sebastian McKenzie and other contributors
-@babel/helper-validator-identifier | Copyright (c) 2014-present Sebastian McKenzie and other contributors
-@babel/highlight | Copyright (c) 2014-present Sebastian McKenzie and other contributors
-@babel/parser | Copyright (C) 2012-2014 by various contributors
-@babel/template | Copyright (c) 2014-present Sebastian McKenzie and other contributors
-@babel/runtime | Copyright (c) 2014-present Sebastian McKenzie and other contributors
-@babel/traverse | Copyright (c) 2014-present Sebastian McKenzie and other contributors	
-@babel/types | Copyright (c) 2014-present Sebastian McKenzie and other contributors
-@emotion/babel-plugin | Copyright (c) Emotion team and other contributors
-@emotion/cache | Copyright (c) Emotion team and other contributors
-@emotion/hash | Copyright (c) Emotion team and other contributors
-@emotion/is-prop-valid | Copyright (c) Emotion team and other contributors
-@emotion/memoize | Copyright (c) Emotion team and other contributors
-@emotion/react | Copyright (c) Emotion team and other contributors
-@emotion/serialize | Copyright (c) Emotion team and other contributors
-@emotion/sheet | Copyright (c) Emotion team and other contributors
-@emotion/styled | Copyright (c) Emotion team and other contributors 	
-@emotion/unitless | Copyright (c) Emotion team and other contributors
-@emotion/use-insertion-effect-with-fallbacks | Copyright (c) Emotion team and other contributors
-@emotion/utils | Copyright (c) Emotion team and other contributors 	
-@emotion/weak-memorize | Copyright (c) Emotion team and other contributors
-@floating-ui/core | Copyright 2021 Floating UI contributors
-@floating-ui/dom | Copyright 2021 Floating UI contributors
-@floating-ui/react | Copyright 2021 Floating UI contributors
-@floating-ui/react-dom | Copyright 2021 Floating UI contributors
-@floating-ui/utils | Copyright 2021 Floating UI contributors
-@jridgewell/resolve-uri | Copyright 2019 Justin Ridgewell <jridgewell@google.com>
-@jridgewell/sourcemap-codec | Copyright (c) 2015 Rich Harris
-@kurkle/color | Copyright (c) 2018-2021 Jukka Kurkela
-@nodelib/fs.scandir | Copyright Denis Malinochkin
-@nodelib/fs.stat | Copyright Denis Malinochkin
-@nodelib/fs.walk | Copyright Denis Malinochkin
-@rollup/plugin-dynamic-import-vars | Copyright (c) 2019 RollupJS Plugin Contributors (https://github.com/rollup/plugins/graphs/contributors) 	
-@rollup/pluginutils | Copyright 2019 RollupJS Plugin Contributors (https://github.com/rollup/plugins/graphs/contributors) 	
-@remix-run/router | Copyright (c) React Training LLC 2015-2019 And Copyright (c) Remix Software Inc. 2020-2021 And Copyright (c) Shopify Inc. 2022-2023
-@types/debug | Copyright (c) Microsoft Corporation
-@types/estree | Copyright (c) Microsoft Corporation
-@types/estree-jsx | Copyright (c) Microsoft Corporation
-@types/fs-extra | Copyright (c) Microsoft Corporation
-@types/hast | Copyright (c) Microsoft Corporation
-@types/mdast | Copyright (c) Microsoft Corporation 	
-@types/ms | Copyright (c) Microsoft Corporation
-@types/node |  No Copyright Found
-@types/parse-json | Copyright (c) Microsoft Corporation
-@types/scheduler | Copyright (c) Microsoft Corporation
-@types/prop-types | Copyright (c) Microsoft Corporation
-@types/react | Copyright (c) Microsoft Corporation
-@types/units | Copyright (c) Microsoft Corporation
-@vitejs/plugin-react-refresh | Copyright (c) 2019-present, Yuxi (Evan) You and Vite contributors
-@vscode/l10n | Copyright (c) Microsoft Corporation
-@vscode/vscode-languagedetection | Copyright (c) Microsoft Corporation. * Copyright 2017 Google LLC. All Rights Reserved
-@vscode/webview-ui-toolkit | Copyright (c) Microsoft Corporation. * Copyright 2017 Google LLC. All Rights Reserved
-ansi-styles | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-astring | Copyright (c) 2015, David Bonnet <david@bonnet.cc>
-args4j:args4j | Copyright (c) 2013 Kohsuke Kawaguchi and other contributors
-axios | Copyright (c) 2014-present Matt Zabriskie & Collaborators
-babel-plugin-macros | Copyright (c) 2020 Kent C. Dodds
-bail | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
-braces | Copyright (c) 2019 Jon Schlinkert (https://github.com/jonschlinkert)
-body-parser | Copyright (c) 2014 Jonathan Ong <me@jongleberry.com> And Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com>	
-call-bind-apply-helpers | Copyright (c) 2024 Jordan Harband
-call-bound | Copyright (c) 2024 Jordan Harband
-callsites | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-ccount | Copyright 2015 Titus Wormer <tituswormer@gmail.com>
-chalk | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 	
-character-entities | Copyright 2015 Titus Wormer <tituswormer@gmail.com> 	
-character-entities-html4 | Copyright 2015 Titus Wormer <tituswormer@gmail.com>
-character-entities-legacy | Copyright 2015 Titus Wormer <tituswormer@gmail.com>
-character-reference-invalid | Copyright 2015 Titus Wormer <tituswormer@gmail.com>
-Chart.js | Copyright (c) 2022 Chart.js Contributors
-classnames | Copyright 2018 Jed Watson
-color | Copyright 2012 Heather Arthur
-color-convert | Copyright 2011-2016, Heather Arthur and Josh Junon
-color-name | Copyright 2015 Dmitry Ivanov
-color-string | Copyright 2011 Heather Arthur <fayearthur@gmail.com>
-comma-separated-tokens | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-compute-scroll-into-view | Copyright 2023 Cody Olsen
-convert-source-map | Copyright 2013 Thorsten Lorenz
-convert-source-map | Copyright 2013 Thorsten Lorenz
-copy-to-clipboard | Copyright 2017 sudodoki <smd.deluzion@gmail.com>
-cosmiconfig | Copyright 2015 David Clark
-csstype | Copyright 2017-2018 Fredrik Nicol
-debug | Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>, Copyright (c) 2018-2021 Josh Junon
-decode-named-character-reference | Copyright (c) Titus Wormer <tituswormer@gmail.com>
-dequal | Copyright Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
-devlop | Copyright 2023 Titus Wormer <tituswormer@gmail.com>
-downshift | Copyright 2017 PayPal
-dunder-proto | Copyright (c) 2024 ECMAScript Shims
-error-ex | Copyright 2015 JD Ballard
-escape-string-regexp | Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-es-define-property | Copyright (c) 2024 Jordan Harband
-es-object-atoms | Copyright (c) 2024 Jordan Harband
-es-toolkit | Copyright 2024 Viva Republica, Inc
-estree-util-is-identifier-name | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-estree-walker | Copyright 2015 [these people](https://github.com/Rich-Harris/estree-walker/graphs/contributors)
-extend | Copyright 2014 Stefan Thomas 	
-fast-glob | Copyright Denis Malinochkin
-fault | Copyright 2015 Titus Wormer <tituswormer@gmail.com> 	
-fill-range | Copyright (c) 2014-present, Jon Schlinkert
-find-root | Copyright 2017 jsdnxx
-flatpickr | Copyright 2017 Gregory Petrosyan
-format | Copyright 2010-2014 Sami Samhuri sami@samhuri.net
-fs-extra | Copyright 2011-2017 JP Richardson 	
-function-bind | Copyright 2013 Raynos 	
-get-intrinsic | Copyright (c) 2020 Jordan Harband	
-get-proto | Copyright (c) 2025 Jordan Harband
-gopd | Copyright (c) 2022 Jordan Harband
-has-flag | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-has-symbols | Copyright (c) 2016 Jordan Harband
-hasown | Copyright Jordan Harband and contributors
-html-parse-stringify | No Copyright Found
-hast-util-from-parse5 | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-hast-util-parse-selector | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-hast-util-raw | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-hast-util-to-jsx-runtime | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-hast-util-to-parse5 | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-hast-util-whitespace | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-html-url-attributes | Copyright Titus Wormer	
-html-void-elements | Copyright 2016 Titus Wormer <tituswormer@gmail.com> 	
-i18next | Copyright (c) 2025 i18next 	
-i18next-browser-languagedetector | Copyright (c) 2024 i18next
-import-fresh | Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-inline-style-parser | Copyright 2012 TJ Holowaychuk <tj@vision-media.ca>
-invariant | Copyright 2013 Facebook, Inc
-is-alphabetical | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-is-alphanumerical | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-is-arrayish | Copyright 2015 JD Ballard
-is-core-module | Copyright 2014 Dave Justice
-is-decimal | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-is-extglob | Copyright 2014-2016 Jon Schlinkert
-is-glob | Copyright 2014-2017 Jon Schlinkert
-is-hexadecimal | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-is-number | Copyright (c) 2014-present, Jon Schlinkert
-is-plain-obj | Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-js-levenshtein | Copyright (c) 2017 Gustaf Andersson
-js-tokens | Copyright 2014-2015 2016, 2017, 2018 Simon Lydell
-json-parse-even-better-errors | Copyright 2017 Kat Marchán
-jszip | Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, Ant√≥nio Afonso
-lines-and-columns | Copyright 2015 Brian Donovan
-lodash | Copyright OpenJS Foundation and other contributors <https://openjsf.org/> 
-lodash.debounce | Copyright jQuery Foundation and other contributors <https://jquery.org/> 	
-lodash.findlast | Copyright jQuery Foundation and other contributors <https://jquery.org/>
-lodash.isequal | Copyright 2023 JS Foundation 	
-lodash.omit | Copyright jQuery Foundation and other contributors <https://jquery.org/> 	
-lodash.throttle | Copyright jQuery Foundation and other contributors <https://jquery.org/>
-longest-streak | Copyright 2015 Titus Wormer <mailto:tituswormer@gmail.com>
-loose-envify | Copyright 2015 Andres Suarez <zertosh@gmail.com>
-lowlight | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-marked | Copyright (c) 2018+ And MarkedJS (https://github.com/markedjs/) And Copyright (c) 2011-2018 And Christopher Jeffrey (https://github.com/chjj/)
-marked-react | Copyright (c) 2021-present Sibiraj
-match-sorter | Copyright (c) 2020 Kent C. Dodds
-math-intrinsics | Copyright (c) 2024 ECMAScript Shims
-mdast-util-from-markdown | Copyright 2020 Titus Wormer <tituswormer@gmail.com> 	
-mdast-util-mdx-expression | Copyright 2020 Titus Wormer <tituswormer@gmail.com> 	
-mdast-util-mdx-jsx | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-mdast-util-mdxjs-esm | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-mdast-util-phrasing | Copyright (c) 2017 Titus Wormer <tituswormer@gmail.com>, Copyright (c) 2017 Victor Felder <victor@draft.li>
-mdast-util-to-hast | Copyright 2016 Titus Wormer <tituswormer@gmail.com> 	
-mdast-util-to-markdown | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-mdast-util-to-string | Copyright 2015 Titus Wormer <tituswormer@gmail.com>
-micromark | Copyright (c) 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-core-commonmark | Copyright (c) Titus Wormer <tituswormer@gmail.com> 	
-micromark-factory-destination | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-factory-label | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-factory-space | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-factory-title | Copyright 2020 Titus Wormer <tituswormer@gmail.com> 	
-micromark-factory-whitespace | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-character | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-chunked | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-classify-character | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-combine-extensions | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-decode-numeric-character-reference | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-decode-string | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-encode | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-html-tag-name | Copyright 2020 Titus Wormer <tituswormer@gmail.com> 	
-micromark-util-normalize-identifier | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-resolve-all | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-sanitize-uri | Copyright 2020 Titus Wormer <tituswormer@gmail.com> 	
-micromark-util-subtokenize | Copyright 2020 Titus Wormer <tituswormer@gmail.com> 	
-micromark-util-symbol | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromark-util-types | Copyright 2020 Titus Wormer <tituswormer@gmail.com>
-micromatch | Copyright (c) 2014-present, Jon Schlinkert
-moment | Copyright (c) JS Foundation and other contributors 	
-ms | Copyright 2016 Zeit, Inc
-natural | Copyright (c) 2011 And 2012 Chris Umbel And Rob Ellis And Russell Mull
-node-fetch | Copyright (c) 2016 - 2020 Node Fetch Team 	
-object-inspect | Copyright (c) 2013 James Halliday
-object-assign | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-org.apfloat:apfloat | Copyright (c) 2002-2023 Mikko Tommila
-org.checkerframework:checker-qual | Copyright 2004-present by the Checker Framework developers
-org.jsoup:jsoup | Copyright (c) 2009-2024 Jonathan Hedley <https://jsoup.org/>
-org.slf4j:slf4j-api | Copyright (c) 2004-2022 QOS.ch Sarl (Switzerland)
-org.slf4j:slf4j-jdk14 | Copyright (c) 2004-2023 QOS.ch
-parent-module | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-parse-entities | Copyright 2015 Titus Wormer <mailto:tituswormer@gmail.com>
-parse-json | Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-parse5 | Copyright 2013-2019 Ivan Nikulin
-path-parse | Copyright 2015 Javier Blanco
-path-type | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 	
-picomatch | Copyright 2017 Jon Schlinkert" (https://github.com/jonschlinkert)
-pikaday.js | Copyright (c) 2014 David Bushell 	
-prismjs | Copyright (c) 2012 Lea Verou
-prop-types | Copyright 2013 Facebook, Inc
-property-information | Copyright 2015 Titus Wormer <mailto:tituswormer@gmail.com>
-prototype.js | Copyright (c) 2005-2007 Sam Stephenson 	
-queue-microtask | Copyright Feross Aboukhadijeh
-react | Copyright (c) Facebook And Inc. and its affiliates
-react-dom | Copyright (c) Facebook And Inc. and its affiliates
-react-draggable | Copyright 2014-2016 Matt Zabriskie
-react-i18next | Copyright (c) 2024 i18next
-react-is | Copyright Facebook, Inc. and its affiliates
-react-markdown | Copyright (c) 2015 Espen Hovlandsdal
-react-router | Copyright (c) React Training LLC 2015-2019 And Copyright (c) Remix Software Inc. 2020-2021 And Copyright (c) Shopify Inc. 2022-2023
-react-router-dom | Copyright (c) React Training LLC 2015-2019 And Copyright (c) Remix Software Inc. 2020-2021 And Copyright (c) Shopify Inc. 2022-2023
-react-syntax-highlighter | Copyright (c) 2019 Conor Hastings 	
-refractor | Copyright 2017 Titus Wormer <tituswormer@gmail.com> 	
-regenerator-runtime | Copyright (c) 2014-present, Facebook, Inc.
-rehype-raw | Copyright 2016 Titus Wormer <tituswormer@gmail.com> 	
-remark-parse | Copyright (c) 2014-2016 Titus Wormer <tituswormer@gmail.com> And Copyright (c) 2011-2014, Christopher Jeffrey (https://github.com/chjj/) 	
-remark-rehype | Copyright 2016 Titus Wormer <tituswormer@gmail.com>
-resize-observer-polyfill | Copyright (c) 2016 Denis Rul 	
-resolve | Copyright 2012 James Halliday
-resolve-from | Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 	
-reusify | Copyright (c) 2015-2024 Matteo Collina
-run-parallel | Copyright (c) Feross Aboukhadijeh
-scheduler | Copyright (c) Facebook, Inc. and its affiliates 	
-side-channel | Copyright (c) 2019 Jordan Harband
-side-channel-list | Copyright (c) 2024 Jordan Harband
-side-channel-map | Copyright (c) 2024 Jordan Harband
-side-channel-weakmap | Copyright (c) 2019 Jordan Harband
-simple-swizzle | Copyright (c) 2015 Josh Junon
-space-separated-tokens | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
-steamroller | Copyright 2013 Gareth Jones
-stringify-entities | Copyright (c) 2015 Titus Wormer <mailto:tituswormer@gmail.com>
-style-to-object | Copyright (c) 2017 Menglin "Mark" Xu <mark@remarkablemark.org>
-stylis | Copyright 2016 Sultan Tarimo 	
-supports-color | Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com) 	
-supports-preserve-symlinks-flag | Copyright (c) 2022 Inspect JS
-rehype-raw | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com> 	
-tabbable | Copyright 2015 David Clark 	
-to-fast-properties | Copyright (c)  Petka Antonov And Copyright (c) Benjamin Gruenbaum And Copyright (c) John-David Dalton Ane Sindre Sorhus 	
-to-regex-range | Copyright (c) 2015-present, Jon Schlinkert
-toggle-selection | Copyright (c) 2017 sudodoki <smd.deluzion@gmail.com>
-trim-lines | Copyright (c) 2015 Titus Wormer <mailto:tituswormer@gmail.com>
-trough | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
-unified | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com> 	
-unist-util-is | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
-unist-util-position | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com> 	
-unist-util-remove-position | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
-unist-util-stringify-position | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
-unist-util-visit | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
-unist-util-visit-parents | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
-use-resize-observer | Copyright 2018 Viktor Hubert <rpgmorpheus@gmail.com>
-usehooks-ts | Copyright (c) 2020 Julien CARON
-uuid | Copyright (c) 2010-2020 Robert Kieffer and other contributors 	
-vfile | Copyright (c) 2015 Titus Wormer <tituswormer@gmail.com>
-vfile-location | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
-vfile-message | Copyright (c) 2017 Titus Wormer <tituswormer@gmail.com>
-void-elements | Copyright (c) 2014 hemanth
-vscode-languageclient | Copyright (c) Microsoft Corporation
-web-tree-sitter | Copyright (c) 2018-2021 Max Brunsfeld 	
-web-namespaces | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
-window-or-global | Copyright Purpose Industries
-xtend | Copyright (c) 2012-2014 Raynos
-zwitch | Copyright (c) 2016 Titus Wormer <tituswormer@gmail.com>
-
-
-Permission is hereby granted, free of charge, to any person obtaining a 
-copy of this software and associated documentation files (the 
-"Software"), to deal in the Software without restriction, including 
-without limitation the rights to use, copy, modify, merge, publish, 
-distribute, sublicense, and/or sell copies of the Software, and to 
-permit persons to whom the Software is furnished to do so, subject to 
-the following conditions: 
-
-The above copyright notice and this permission notice shall be included 
-in all copies or substantial portions of the Software. 
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
-OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
-
-END OF MIT LICENSE NOTICES AND INFORMATION
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-UNICODE LICENSE
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MIT license
 
 The Program includes some or all of the following that IBM obtained
-under the Unicode License:
+under the MIT license:
 
-icu4j | Copyright © 1991-2020 Unicode, Inc.
+balanced-match-1.0.2.tgz (Copyright 2013 Julian Gruber <julian@juliangruber.com>)
+brace-expansion-2.0.1.tgz (Copyright 2013 Julian Gruber <julian@juliangruber.com>)
+classnames-2.5.1.tgz (Copyright 2018 Jed Watson)
+color-4.2.3.tgz (Copyright 2012 Heather Arthur)
+color-convert-2.0.1.tgz (Copyright 2011-2016 Heather Arthur <fayearthur@gmail.com>) (Copyright 2011-2016 Heather Arthur and Josh Junon)
+color-name-1.1.4.tgz (Copyright 2015 Dmitry Ivanov)
+color-string-1.9.1.tgz (Copyright 2011 Heather Arthur <fayearthur@gmail.com>)
+compute-scroll-into-view-3.1.1.tgz (Copyright 2025 Cody Olsen)
+copy-to-clipboard-3.3.3.tgz (Copyright 2017 sudodoki <smd.deluzion@gmail.com>)
+core-1.6.9.tgz (Copyright 2021 Floating UI contributors)
+date-format-4.0.14.tgz (Copyright 2013 Gareth Jones)
+debug-4.4.1.tgz (Copyright 2014-2017 TJ Holowaychuk <tj@vision-media.ca>) (Copyright 2018-2021 Josh Junon)
+dom-1.6.13.tgz (Copyright 2021 Floating UI contributors)
+downshift-9.0.8.tgz (Copyright 2017 PayPal)
+es-toolkit-1.34.1.tgz (Copyright 2024 Viva Republica, Inc) (Copyright Viva Republica, Inc.)
+esbuild-windows-64-0.14.54.tgz (Copyright 2020 Evan Wallace)
+flatpickr-4.6.13.tgz (Copyright 2017 Gregory Petrosyan)
+fs-extra-8.1.0.tgz (Copyright 2011-2017 "JP Richardson" (https://github.com/jprichardson)) (Copyright 2011-2017 JP Richardson) (Copyright 2011-2017 [JP Richardson](https://github.com/jprichardson))
+html-parse-stringify-3.0.1.tgz (Copyright UNSPECIFIED)
+i18next-24.2.3.tgz (Copyright 2025 i18next)
+i18next-browser-languagedetector-8.0.4.tgz (Copyright 2024 i18next)
+invariant-2.2.4.tgz (Copyright 2013 Facebook, Inc)
+is-arrayish-0.3.2.tgz (Copyright 2015 JD Ballard)
+js-tokens-4.0.0.tgz (Copyright 2014-2015 2016, 2017, 2018 Simon Lydell) (Copyright 2014-2018 Simon Lydell)
+jsonfile-4.0.0.tgz (Copyright 2012-2015 JP Richardson <jprichardson@gmail.com>) (Copyright 2012-2016 JP Richardson) (Copyright 2012-2016 JP Richardson  <jprichardson@gmail.com>)
+l10n-0.0.18.tgz(Copyright Not Found)
+lodash.debounce-4.0.8.tgz (Copyright jQuery Foundation and other contributors <https://jquery.org/>)
+loose-envify-1.4.0.tgz (Copyright 2015 Andres Suarez <zertosh@gmail.com>)
+marked-12.0.2.tgz (Copyright 2004 John Gruber) (Copyright 2011-2018 Christopher Jeffrey) (Copyright 2011-2022 Christopher Jeffrey) (Copyright 2018 MarkedJS (https://github.com/markedjs/))
+marked-15.0.7.tgz (Copyright 2004 John Gruber) (Copyright 2011-2018 Christopher Jeffrey) (Copyright 2011-2022 Christopher Jeffrey) (Copyright 2018 MarkedJS (https://github.com/markedjs/))
+marked-react-3.0.0.tgz (Copyright 2021 Sibiraj)
+ms-2.1.3.tgz (Copyright 2020 Vercel, Inc)
+object-assign-4.1.1.tgz (Copyright Sindre Sorhus) (Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com))
+prop-types-15.8.1.tgz (Copyright 2013 Facebook, Inc)
+react-0.27.6.tgz (Copyright 2021 Floating UI contributors)
+react-19.1.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
+react-dom-19.1.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
+react-dom-2.1.2.tgz (Copyright 2021 Floating UI contributors)
+react-fast-compare-3.2.2.tgz (Copyright 2017 Evgeny Poberezkin) (Copyright 2018 Formidable Labs)
+react-i18next-15.4.1.tgz (Copyright 2024 i18next)
+react-is-16.13.1.tgz (Copyright Facebook, Inc. and its affiliates)
+react-is-18.2.0.tgz (Copyright Facebook, Inc. and its affiliates)
+regenerator-runtime-0.14.1.tgz (Copyright 2014 Facebook, Inc)
+resize-observer-polyfill-1.5.1.tgz (Copyright 2016 Denis Rul)
+rfdc-1.4.1.tgz (Copyright 2019 David Mark Clements <david.mark.clements@gmail.com>")
+runtime-7.27.0.tgz (Copyright 2014 Sebastian McKenzie and other contributors)
+scheduler-0.26.0.tgz (Copyright Meta Platforms, Inc. and affiliates)
+simple-swizzle-0.2.2.tgz (Copyright 2015 Josh Junon)
+streamroller-3.1.5.tgz (Copyright 2013 Gareth Jones)
+tabbable-6.2.0.tgz (Copyright 2015 David Clark)
+toggle-selection-1.0.6.tgz (Copyright 2017.0 sudodoki)
+universalify-0.1.2.tgz (Copyright 2017 Ryan Zimmerman <opensrc@ryanzim.com>)
+use-resize-observer-6.1.0.tgz (Copyright 2018 Viktor Hubert <rpgmorpheus@gmail.com>)
+usehooks-ts-3.1.1.tgz (Copyright 2020 Julien CARON)
+utils-0.2.9.tgz (Copyright 2021 Floating UI contributors)
+uuid-9.0.1.tgz (Copyright 2010-2020 Robert Kieffer and other contributors)
+void-elements-3.1.0.tgz (Copyright 2014 hemanth)
+vscode-jsonrpc-9.0.0-next.2.tgz (Copyright Microsoft Corporation)
+vscode-languageclient-10.0.0-next.3.tgz (Copyright Microsoft Corporation)
+vscode-languageserver-protocol-3.17.6-next.4.tgz (Copyright Microsoft Corporation)
+vscode-languageserver-types-3.17.6-next.3.tgz (Copyright Microsoft Corporation)
+window-or-global-1.0.1.tgz (Copyright Purpose Industries)
 
 Permission is hereby granted, free of charge, to any person obtaining a
-copy of data files and any associated documentation (the "Data Files") or
-software and any associated documentation (the "Software") to deal in the
-Data Files or Software without restriction, including without limitation
-the rights to use, copy, modify, merge, publish, distribute, and/or sell
-copies of the Data Files or Software, and to permit persons to whom the
-Data Files or Software are furnished to do so, provided that either 
-(a) this copyright and permission notice appear with all copies of the Data
-Files or Software, or (b) this copyright and permission notice appear in 
-associated Documentation.
+copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction, including without limitation
+the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following conditions:  The
+above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
-KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF
-THIRD PARTY RIGHTS.
+END OF MIT license NOTICES AND INFORMATION
 
-IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE
-BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES,
-OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
-WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
-ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA
-FILES OR SOFTWARE.
-
-Except as contained in this notice, the name of a copyright holder shall
-not be used in advertising or otherwise to promote the sale, use or other
-dealings in these Data Files or Software without prior written
-authorization of the copyright holder.
-
-END OF UNICODE LICENSE NOTICES AND INFORMATION
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-END OF NOTICES AND INFORMATION
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+END OF IBM WATSONX CODE ASSISTANT FOR ENTERPRISE JAVA NOTICES AND INFORMATION
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 END OF NOTICES AND INFORMATION FILE
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-L/N: L-PKAE-345X6S
-D/N: L-PKAE-345X6S
-P/N: L-PKAE-345X6S
+L/N: L-SUUY-V9BE73
+D/N: L-SUUY-V9BE73
+P/N: L-SUUY-V9BE73

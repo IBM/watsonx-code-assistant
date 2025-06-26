@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM watsonx Code Assistant for Enterprise Java Applications (extension for Visual Studio Code and Eclipse) V1.0
+IBM watsonx Code Assistant for Enterprise Java Applications (extension for Visual Studio Code and Eclipse) 1.1.x
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -20,21 +20,24 @@ shipped with, the Program as Licensee installed it.
 
 The following are Separately Licensed Code:
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+plex
+plex-mono
+plex-sans
+plex-sans-arabic
+plex-sans-devanagari
+plex-sans-hebrew
+plex-sans-thai
+plex-sans-thai-looped
+plex-serif	
 
-NON-IBM-LICENSE INFORMATION FOR IBM watson Code Assistant for Enterprise Java Applications (extension for Visual Studio Code and Eclipse)
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 TABLE OF CONTENTS
 
 THIS NON-IBM-LICENSE FILE CONSISTS OF THE FOLLOWING SECTIONS:
 
 OFL-1.1
-CC-BY-4.0
-
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -43,7 +46,15 @@ SIL Open Font License 1.1
 The Program includes some or all of the following that IBM obtained 
 under the SIL Open Font License 1.1: 
 
-@ibm/plex
+plex
+plex-mono
+plex-sans
+plex-sans-arabic
+plex-sans-devanagari
+plex-sans-hebrew
+plex-sans-thai
+plex-sans-thai-looped
+plex-serif
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
@@ -137,24 +148,12 @@ END OF SIL OPEN FONT LICENSE 1.1 NON-IBM LICENSE INFORMATION
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-CREATIVE COMMONS ATTRIBUTION 4.0
-
-The Program includes some or all of the following works licensed under
-the Creative Commons.
-The url to the license is https://creativecommons.org/licenses/by/4.0/legalcode
-
-caniuse-lite | Copyright not found (caniuse.com) | https://www.npmjs.com/package/caniuse-lite/
-
-END OF CREATIVE COMMONS ATTRIBUTION 4.0 NON-IBM-LICENSE INFORMATION
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 END OF NON-IBM-LICENSE INFORMATION
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 END OF NON-IBM-LICENSE INFORMATION FILE
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-L/N: L-PKAE-345X6S
-D/N: L-PKAE-345X6S
-P/N: L-PKAE-345X6S
+L/N: L-SUUY-V9BE73
+D/N: L-SUUY-V9BE73
+P/N: L-SUUY-V9BE73

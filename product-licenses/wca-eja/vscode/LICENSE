@@ -3,9 +3,22 @@ LICENSE INFORMATION
 The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
 
 Program Name (Program Number):
-IBM watsonx Code Assistant for Enterprise Java Applications (extension for Visual Studio Code and Eclipse) V1.0 (Tool)
+IBM watsonx Code Assistant for Enterprise Java Applications (extension for Visual Studio Code and Eclipse) 1.1.x (Tool)
 
 The following standard terms apply to Licensee's use of the Program.
+
+Supporting Programs
+
+Licensee is authorized to install and use the Supporting Programs identified below only to support Licensee's use of the Principal Program under this Agreement. The phrase "to support Licensee's use" would only include those uses that are necessary or otherwise directly related to a licensed use of the Principal Program or another Supporting Program. The Supporting Programs may not be used for any other purpose. A Supporting Program may be accompanied by license terms, and those terms, if any, apply to Licensee's use of that Supporting Program. In the event of conflict, the terms in this License Information document supersede the Supporting Program's terms. Licensee must obtain sufficient entitlements to the Program, as a whole, to cover Licensee's installation and use of all of the Supporting Programs, unless separate entitlements are provided within this License Information document. For example, if this Program were licensed on a VPC (Virtual Processor Core) basis and Licensee were to install the Principal Program or a Supporting Program on a 10 VPC machine and another Supporting Program on a second 10 VPC machine, Licensee would be required to obtain 20 VPC entitlements to the Program.
+
+Supporting Programs:
+IBM Application Modernization Accelerator Developer Tools
+
+Permitted Components
+
+Licensee is permitted to use only the following components or functions of the identified Bundled or Supporting Program:
+- Modernize to Liberty
+- Upgrade Java Version
 
 Limited Use Program
 
@@ -30,9 +43,9 @@ Note: Notwithstanding any of the terms in the third party license agreement, the
 (b) IBM is not liable for any direct, indirect, incidental, special, exemplary, punitive or consequential damages including, but not limited to, lost data, lost savings, and lost profits.
 
 
-L/N: L-PKAE-345X6S
-D/N: L-PKAE-345X6S
-P/N: L-PKAE-345X6S
+L/N: L-SUUY-V9BE73
+D/N: L-SUUY-V9BE73
+P/N: L-SUUY-V9BE73
 
 International Program License Agreement
 
